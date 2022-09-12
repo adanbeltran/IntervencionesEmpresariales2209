@@ -1,0 +1,1140 @@
+ 
+ 
+ 
+ANEXO TÉCNICO 
+INTELIGENCIA ARTIFICIAL - CHATBOTS 
+ 
+FECHA 
+23/06/2020 
+ 
+INTRODUCCIÓN 
+ 
+Radio Televisión Nacional de Colombia RTVC es la entidad líder del Sistema de Medios Públicos en el país, encargada de gestionar y 
+difundir contenidos con carácter educativo y multicultural a través de diferentes plataformas y tecnologías, con el propósito de formar, 
+informar, entretener y fortalecer los valores democráticos y contribuir con el fortalecimiento de la cultura ciudadana en el país. 
+ 
+RTVC cuenta actualmente con seis (6) canales de comunicación entre los que se mencionan:  línea gratuita 018000123414, línea para 
+personas sordas: 2200703, correo electrónico peticionesquejasyreclamos@rtvc.gov.co, Formulario de Peticiones, Quejas, Reclamos y 
+Sugerencias a través de Contacto PQRSD, sus oficinas ubicadas en la dirección Avenida Eldorado Cr. 45 # 26-33 Bogotá, Colombia, por 
+comunicación escrita a través de la oficina de Peticiones, Quejas y Reclamos en la Avenida Eldorado Cr. 45 # 26-33 Bogotá, Colombia y a 
+través del Chat cuyo horario de atención es de lunes de 9:30 a.m. a 12:00 m. 
+ 
+RTVC dentro de su estrategia digital cuenta con presencia en las principales redes sociales como lo son Facebook, Twitter, Instagram y 
+YouTube alcanzando 45 cuentas activas, en tanto que existe un gran equipo de trabajo detrás de todo ello y quienes son los responsables 
+de las redes sociales de RTVC como son los Community manager y Gestores de comunidades que día a día trabajan arduamente para 
+responder los mensajes, comentarios y menciones en cada una de las redes principales de las marcas (Facebook, Twitter, Instagram, 
+YouTube).  
+ 
+RTVC siembre en la búsqueda de fortalecer sus canales de comunicación entre los ciudadanos y la entidad, y con el fin de facilitar al 
+ciudadano su participación no solo dentro de la gestión pública sino también dentro de todo lo que abarca la esencia de RTVC mediante sus 
+contenidos y eventos principales y, bajo la línea de transformación digital y 4RI desde la Dirección de Tecnologías Convergentes nace el 
+proyecto apoyado con chatbots, con el fin de apoyar está labor al automatizar procesos operativos como las respuestas de preguntas 
+genéricas y comunes del ciudadano.    
+ 
+A través de este proyecto se busca desarrollar mediante fases un sistema que permita conectar varios sistemas de información de la entidad, 
+con el fin de crear flujos de información centralizados que permitan migrar los chatbots a otras plataformas como sitios web, aplicaciones o 
+incluso llegar a responder algunas PQR’s genéricas. 
+ 
+De acuerdo con lo anterior y siguiendo con los lineamientos del estado colombiano para “establecer las bases normativas y de política pública 
+para lograr la transformación digital del Estado”, este proyecto se fundamenta en la Ley 1286 de 2009 que busca fortalecer el Sistema 
+Nacional de Ciencia, Tecnología e Innovación en Colombia. 
+ 
+En conclusión, se requiere contratar y desarrollar la implementación de la infraestructura de un Bot inteligente capaz de procesar los datos y 
+contestar de una forma natural y humana a todas las consultas de la ciudadanía y usuarios en general desde las diferentes redes sociales 
+de la marca RTVC en primera instancia como fase inicial de este proyecto y las cuales se indica a continuación:  
+Para una clara comprensión, se establece la visión general del proyecto, los requerimientos   y las especificaciones técnicas mínimas 
+requeridas por la entidad.  Ver imagen No. 1 
+
+-----
+ 
+ Imagen No 1. Visión General, Requerimientos y Especificaciones técnicas mínimas Proyecto INTELIGENCIA ARTIFICIAL 
+CHATBOTS  
+Fuente RTVC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTELIGENCIA ARTIIFICIAL -
+CHATBOTS
+Requerimientos
+Requerimientos 
+Funcionales
+Requerimientos 
+Técnicos
+Diseño
+Arquitectura de la 
+Solución
+Desarrollo
+Requerimientos 
+de Fábrica
+Documentación
+Requerimientos 
+de Interconexión 
+y acople con 
+soluciones ya 
+existentes
+Requerimientos 
+de Instalación
+Requerimientos 
+de Soporte
+Soporte Técnico
+Soporte Funcional
+Requerimientos 
+de 
+Mantenimiento
+Requerimientos 
+de Pruebas
+Pruebas 
+funcionales y 
+técnicas
+Pruebas de 
+aceptación
+Requerimientos 
+de Calidad
+Calidad
+ANS
+Garantía
+Requerimientos 
+de 
+Documentación
+Requerimientos 
+de Formación
+
+-----
+GENERALIDADES 
+ 
+ 
+Hoy en día y en una sociedad caracterizada por estar en constante transformación, grandes, medianas y pequeñas compañías han recibido 
+ya la señal y ya han iniciado los procesos de transformación digital pertinentes para facilitar su introducción en sus procesos de comunicación 
+tanto internos como externos de la organización, y es que, las puertas que abren las nuevas tecnologías se convierten en nuevas 
+oportunidades de comunicación y, por consiguiente, de acercarse a sus clientes de una forma oportuna y eficiente.  
+ 
+Ahora que el mercado de las apps está saturado y el uso del smartphone generalizado, hoy en día las apps de mensajería se convierten en 
+una herramienta primordial para una comunicación eficaz. Al hilo de esta democratización, las empresas y, en especial los departamentos 
+de comunicación tienen la opción de llegar a sus audiencias haciendo uso de estos canales. Sin embargo, mantener departamentos que 
+atiendan mediante esta vía se convierte en algo inviable, y, como consecuencia, los chatbots entran en escena para dinamizar el proceso.  
+ 
+Los bots, tienen el poder de dinamizar las conversaciones dentro de las compañías, facilitar la divulgación de contenidos de última hora y 
+estas son solo algunas de las aplicaciones prácticas por los que están apostando muchas empresas actualmente en sus procesos internos 
+de transformación digital, y es así como la estrategia de comunicación definida por los departamentos de comunicación se convierte en el 
+punto a seguir de cara a la elaboración de todos estos procesos. 
+ 
+Ahora, tanto ciudadanos como usuarios pasan más de cuatro horas al día frente a las apps de mensajería, y es aquí donde utilizar un agente 
+conversacional capaz de mantener un diálogo con un ser humano utilizando lenguaje natural que ofrece respuestas inminentes y está 
+disponible 24/7 es nuestro objetivo, los chatbots.  
+ 
+ 
+REQUERIMIENTOS FUNCIONALES 
+ 
+ 
+OBJETO DEL CONTRATO: 
+ 
+El Contratista se obliga con -RTVC- al desarrollo, implementación, soporte y mantenimiento de la infraestructura de un Bot de Inteligencia 
+Artificial y Big Data sobre la marca RTVC en sus redes sociales: Facebook, Twitter, Instagram y YouTube dando cumplimiento al plan 
+estratégico de Transformación Digital de la Entidad, de acuerdo con los requerimientos establecidos en el Anexo Técnico. 
+  
+Identificació
+n 
+Descripción del requisito 
+Criterios de aceptación 
+Nivel de 
+prioridad 
+Entregables (EDT) 
+1 
+El Bot debe ser capaz de 
+implementarse en sitios web y 
+redes sociales como Facebook, 
+Twitter, Instagram & YouTube. 
+Infraestructura 
+capaz 
+de 
+integrarse a los sitios web 
+propios de RTVC, así como 
+las redes sociales en donde 
+las marcas de RTVC tengan 
+perfiles oficiales. 
+Alta 
+Interfaz administrable por RTVC. 
+Dashboards que permitan monitorear 
+el uso e impacto de cada chatbot. 
+Manuales de administración de la 
+plataforma. 
+Capacitaciones con el equipo de T.I y 
+los equipos digitales de RTVC. 
+Manuales de personalización y 
+configuraciones adicionales de la 
+plataforma. 
+2 
+El Bot debe adoptar la esencia y 
+lenguaje natural de cada marca de 
+RTVC donde la fase 1 contemplará 
+la implementación en la marca 
+RTVC, pero podrá replicarse en las 
+diferentes marcas de la entidad 
+ajustada a las necesidades de 
+personalización y configuración, 
+con el fin de generar empatía con el 
+usuario 
+y 
+contribuir 
+al 
+posicionamiento e imagen de la 
+marca. 
+La interfaz cuenta con una 
+sección de "perfil" que permite 
+la carga y configuración de 
+personalidad en términos de 
+lenguaje y expresión de cada 
+Bot. 
+Alta 
+3 
+El Bot debe contar con una interfaz 
+administrable por RTVC 
+Interfaz 
+administrable 
+por 
+RTVC. 
+Alta 
+
+-----
+4 
+El Bot debe clasificar los mensajes 
+y comentarios de los usuarios por 
+medio de categorías para asignar 
+respuestas automáticas definidas 
+por RTVC. 
+El Bot podrá clasificar los 
+mensajes y comentarios en 
+diferentes 
+categorías 
+asignadas por RTVC, así 
+mismo RTVC será capaz de 
+ingresar o eliminar categorías 
+según sus necesidades. 
+Alta 
+5 
+El Bot debe omitir comentarios y 
+preguntas que son relacionadas 
+con 
+política, 
+lenguajes 
+soez, 
+religión, temas sexuales y cualquier 
+categoría adicional que defina 
+RTVC. 
+El Bot debe aceptar una o 
+varias 
+"Black 
+list" 
+de 
+categorías sobre las cuales no 
+responderá automáticamente, 
+pero 
+si 
+mantendrá 
+la 
+notificación para el equipo de 
+RTVC sobre la existencia del 
+mensaje o comentario que se 
+omite. 
+Alta 
+6 
+El Bot debe ser capaz de interpretar 
+lenguaje 
+informal, 
+errores, 
+regionalismos, emojis para dar 
+respuestas 
+automáticas 
+con 
+sentido, 
+generando 
+una 
+comunicación natural y fluida. 
+El Bot se adapta a las formas 
+de expresión y escritura de los 
+usuarios y se actualiza con el 
+tiempo. 
+Alta 
+7 
+El Bot debe ser capaz de integrarse 
+con sistemas de información, 
+bases de datos, gestores de 
+contenido y demás plataformas 
+delimitadas por RTVC que cuentan 
+con información relevante para 
+atender 
+las 
+preguntas 
+y 
+comentarios de los usuarios. 
+Capacidad de integración por 
+API o cualquier servicio y/o 
+sistema 
+que 
+defina 
+el 
+proveedor en conjunto con 
+RTVC para conectarse con 
+los diferentes sistemas de 
+información, bases de datos, 
+gestores de contenido y 
+demás 
+plataformas 
+delimitadas por la entidad. 
+Alta 
+8 
+El Bot debe permitir almacenar 
+preguntas frecuentes designadas 
+por RTVC en conjunto con las 
+posibles respuestas, dicha base de 
+datos debe poder ser administrada 
+por RTVC. 
+Infraestructura que cuenta 
+con una base de datos (local 
+o en la nube) donde RTVC 
+pueda 
+agregar 
+nuevas 
+preguntas o ajustar preguntas 
+y comentarios adicionales. 
+Alta 
+9 
+El Bot debe conectarse en tiempo 
+real con los diferentes sistemas de 
+información, bases de datos, 
+gestores de contenido y demás 
+plataformas delimitadas por RTVC. 
+Conexión en tiempo real con 
+los diferentes sistemas de 
+información, bases de datos, 
+gestores de contenido y 
+demás 
+plataformas 
+delimitadas por RTVC. 
+Alta 
+10 
+El Bot debe generar alertas a los 
+equipos asignados por RTVC para 
+cada canal de atención, sobre 
+comentarios 
+sin 
+responder 
+o 
+comentarios 
+clasificados 
+como 
+spam o lenguaje no apropiado. 
+Notificaciones a los usuarios 
+asignados por RTVC para 
+mensajes y comentarios sin 
+respuesta 
+definida 
+o 
+clasificados en la "Black list". 
+Alta 
+
+-----
+11 
+El Bot debe asignar o escalar los 
+mensajes y comentarios que no 
+aplican 
+para 
+una 
+respuesta 
+automática 
+y 
+requieren 
+la 
+intervención de un integrante del 
+equipo delegado de RTVC. 
+El Bot cuenta con un sistema 
+de asignación por correo 
+electrónico a los usuarios 
+asignados por RTVC, para 
+todos 
+los 
+mensajes 
+y 
+preguntas que requieren una 
+intervención personalizada. 
+Alta 
+12 
+Los usuarios podrán registrar 
+comentarios en Facebook en las 
+páginas (fanpage) de las marcas 
+de RTVC y el Bot debe dar una 
+respuesta automática. 
+El 
+tiempo 
+máximo 
+de 
+respuesta 
+automática 
+de 
+primer nivel no debe superar 2 
+minutos. 
+Alta 
+13 
+Los usuarios podrán enviar sus 
+mensajes privados en Facebook en 
+las páginas (fanpage) de las 
+marcas de RTVC y el Bot debe dar 
+una respuesta automática. 
+El 
+tiempo 
+máximo 
+de 
+respuesta 
+automática 
+de 
+primer nivel no debe superar 2 
+minutos. 
+Alta 
+14 
+Los usuarios podrán registrar 
+comentarios en Twitter en las 
+páginas (fanpage) de las marcas 
+de RTVC y el Bot debe dar una 
+respuesta automática. 
+El 
+tiempo 
+máximo 
+de 
+respuesta 
+automática 
+de 
+primer nivel no debe superar 2 
+minutos. 
+Alta 
+15 
+Los usuarios podrán enviar sus 
+mensajes privados en Twitter en 
+las páginas (fanpage) de las 
+marcas de RTVC y el Bot debe dar 
+una respuesta automática. 
+El 
+tiempo 
+máximo 
+de 
+respuesta 
+automática 
+de 
+primer nivel no debe superar 2 
+minutos. 
+Alta 
+16 
+El Bot debe cumplir y respetar las 
+condiciones dadas por las redes 
+sociales 
+(Facebook, 
+Twitter, 
+Instagram, YouTube), con el fin de 
+evitar sanciones en el alcance, 
+interacciones, el cierre parcial o 
+total de las cuentas oficiales de 
+RTVC. 
+El Bot cumple las normativas 
+dadas por las redes sociales 
+donde se implementa y no 
+pone en riesgo las cuentas 
+oficiales de RTVC. 
+Alta 
+17 
+El Bot debe ser capaz de reconocer 
+el lenguaje natural del usuario y dar 
+una 
+respuesta 
+coherente 
+y 
+respetuosa al usuario, sin afectar la 
+imagen de las marcas de RTVC. 
+El Bot se adapta a las formas 
+de expresión y escritura de 
+los usuarios y se actualiza 
+con el tiempo, a la vez cuenta 
+con un lenguaje 
+personalizable por las marcas 
+de RTVC sin afectar su 
+imagen y posicionamiento. 
+Alta 
+18 
+La interfaz sobre la cual se 
+construya e integre el Bot debe 
+garantizar 
+la 
+seguridad 
+y 
+confidencialidad de los datos 
+expuestos en la misma. 
+La infraestructura cumple con 
+los parámetros de seguridad 
+de la información, así mismo 
+garantiza la protección de los 
+datos y fuentes de 
+información proporcionados 
+por RTVC. 
+Alta 
+
+-----
+19 
+El Bot debe contar con alta 
+disponibilidad (24/7) en los sitios 
+web y redes sociales establecidas 
+por RTVC. 
+Disponibilidad del servicio 
+24/7 
+Alta 
+20 
+El Bot debe contar con el uso 
+correcto del NLP (Procesamiento 
+de 
+Lenguaje 
+Natural) 
+para 
+garantizar 
+el 
+dinamismo 
+y 
+reconocimiento 
+de 
+mensajes, 
+comentarios y publicaciones de los 
+usuarios durante el tiempo. 
+El Bot cuenta con el uso 
+correcto 
+del 
+NLP 
+(Procesamiento de Lenguaje 
+Natural) 
+Alta 
+21 
+El Bot debe ser capaz de asumir 
+una imagen definida por RTVC, 
+contando con un avatar que pueda 
+ser administrado, modificado y 
+personalizado 
+en 
+cualquier 
+momento por RTVC. 
+La interfaz cuenta con una 
+sección de "perfil" que permite 
+la carga y configuración de 
+personalidad en términos de 
+lenguaje y expresión de cada 
+Bot. 
+Media 
+22 
+El Bot debe tener la posibilidad de 
+contestar 
+usando 
+GIF's 
+o 
+animaciones 
+seleccionados 
+y 
+autorizados por RTVC a mensajes 
+y comentarios que se clasifiquen 
+como agradecimientos, saludos, 
+felicitaciones o cualquier categoría 
+adicional que defina RTVC. 
+El Bot se conecta a un 
+repositorio 
+de 
+GIF's 
+y 
+recursos 
+multimedia 
+que 
+puede usar para responder a 
+los mensajes y comentarios 
+clasificados por RTVC. 
+Media 
+23 
+El Bot debe generar informes de 
+atención al usuario como número 
+de 
+respuestas, 
+mensajes 
+y 
+comentarios 
+clasificados 
+por 
+categoría, mensajes y comentarios 
+sin responder, entre otras variables 
+que permitan validar su uso y 
+apropiación. 
+Dashboard 
+que 
+permita 
+generar y descargar informes 
+de uso y funcionamiento de 
+cada Bot implementado en los 
+sitios web y las redes sociales 
+con cuentas oficiales de 
+RTVC. 
+Media 
+24 
+Los 
+usuarios 
+podrán 
+realizar 
+publicaciones 
+en 
+Facebook 
+mencionando 
+las 
+páginas 
+(fanpage) de las marcas de RTVC 
+y el Bot debe dar una respuesta 
+automática. 
+El 
+tiempo 
+máximo 
+de 
+respuesta 
+automática 
+de 
+primer nivel no debe superar 2 
+minutos. 
+Media 
+25 
+Los 
+usuarios 
+podrán 
+realizar 
+publicaciones 
+en 
+Twitter 
+mencionando 
+las 
+páginas 
+(fanpage) de las marcas de RTVC 
+y el Bot debe dar una respuesta 
+automática. 
+El 
+tiempo 
+máximo 
+de 
+respuesta 
+automática 
+de 
+primer nivel no debe superar 2 
+minutos. 
+Media 
+
+-----
+26 
+El Bot debe conectarse con las 
+API's de las redes sociales para 
+clasificar 
+y 
+segmentar 
+a 
+la 
+audiencia de forma geográfica, 
+demográfica y psicográfica para 
+que 
+las 
+respuestas 
+generen 
+empatía 
+con 
+los 
+mismos 
+y 
+solucionen las necesidades de 
+primer nivel de los usuarios. 
+El 
+Bot 
+genera 
+grupos 
+segmentados de los usuarios 
+que interactúan y clasifica 
+patrones de respuesta con 
+modismos, escritura formal o 
+informal. Sin atentar contra la 
+imagen definida por cada 
+marca de RTVC. 
+Media 
+27 
+El Bot debe permitir contestar 
+usando emojis, enlaces y hashtags 
+que pueden ser configurados y 
+personalizados por RTVC. 
+El Bot reconoce y usa emojis, 
+enlaces y hashtags que 
+pueden ser configurados y 
+personalizados por RTVC. 
+Media 
+28 
+El Bot debe ser capaz de interpretar 
+comentarios 
+y 
+mensajes 
+en 
+diferentes idiomas, tomando como 
+principal el español. 
+El Bot cuenta con un servicio 
+de traducción que permite 
+entender 
+mensajes 
+y 
+comentarios de los usuarios 
+diferentes al español y es 
+capaz de atender dichas 
+solicitudes con las bases de 
+datos 
+proporcionadas 
+por 
+RTVC. 
+Baja 
+29 
+El Bot debe ser capaz de dar 
+sugerencias de contenido según 
+las interacciones del usuario, 
+teniendo en cuenta la clasificación 
+establecida por RTVC. 
+El Bot es capaz de responder 
+a mensajes o comentarios con 
+sugerencias de contenidos en 
+las diferentes plataformas de 
+RTVC, 
+según 
+defina 
+la 
+entidad. 
+Baja 
+30 
+El Bot debe permitir el AB Testing 
+para validar los textos que tienen 
+mayor impacto e interacción por 
+parte de los usuarios. 
+Cuenta con una interfaz de 
+pruebas A/B que puede ser 
+configurada automáticamente 
+o administrada por RTVC para 
+garantizar la mejor forma de 
+responder a mensajes y 
+comentarios de los usuarios. 
+Baja 
+31 
+El Bot en su versión web deberá 
+contar con la opción para que el 
+usuario pueda hablar directamente 
+con un asesor. 
+Los asesores tendrán una 
+interfaz para dar respuestas. 
+Alta 
+Si no hay un asesor disponible 
+se deberá enviar un correo a 
+las cuentas que RTVC con la 
+pregunta realizada por el 
+usuario y sus datos. 
+Alta 
+El 
+administrador 
+podrá 
+configurar 
+el 
+horario 
+de 
+atención 
+por 
+parte 
+de 
+asesores. 
+Media 
+El 
+administrador 
+podrá 
+configurar el mensaje que 
+verá el usuario cuando trate 
+de 
+comunicarse 
+con 
+un 
+asesor y no haya ninguno 
+disponible. 
+Media 
+ 
+ 
+
+-----
+Requerimientos 
+Técnicos 
+ 
+1 
+Diseño 
+  
+El oferente deberá entregar por lo menos dos propuestas gráficas de la visualización del chatbot 
+incluyendo todas sus interfaces 
+Las propuestas gráficas serán evaluadas por RTVC y serán iteradas cuantas veces sea necesario 
+hasta que satisfaga las necesidades de RTVC 
+La propuesta gráfica deberá contemplar el manual de marca y estilo definido por RTVC 
+La propuesta gráfica deberá contemplar versión desktop y versión mobile 
+2 
+Arquitectura de la Solución 
+  
+El oferente deberá entregar por lo menos una propuesta de la arquitectura de la solución que 
+contemple las siguientes capas: Capa de administración, Capa de Big Data, Capa de Inteligencia 
+Artificial, Capa de integración con las redes sociales y Capa de integración con las plataformas 
+propias de RTVC 
+Las propuestas de la arquitectura de la solución serán evaluadas por RTVC y será iterada cuantas 
+veces sea necesario hasta que satisfaga la necesidad de RTVC. 
+3 
+Desarrollo 
+  
+Big Data 
+La capa BIG DATA deberá contar con toda la información que requiera el Bot tal como: Parrilla de 
+programación, programas, capítulos y preguntas frecuentes 
+La capa BIG DATA deberá sincronizarse automáticamente con los sistemas de información, 
+gestores de contenido y servicios web definidos por RTVC. 
+La periodicidad y horarios de sincronización deberá ser configurable por parte de RTVC 
+Integración en sitios web 
+El chat Bot deberá ser compatible con los siguientes navegadores web en su última versión: 
+Chrome, Firefox, Safari y Edge 
+El chat Bot deberá ser compatible con los siguientes sistemas operativos: iOS, Android, Windows 
+Phone, Windows, Linux y MacOS 
+El chat Bot deberá se deberá adaptar automáticamente a la pantalla del dispositivo del usuario, ya 
+sea un PC, Portátil, Tablet o celular. 
+Correos electrónicos 
+La solución debe brindar a RTVC la posibilidad de configurar la cuenta de correos desde la cual se 
+enviarán emails a los usuarios. 
+Se debe contar con un log de envío de correos electrónicos con los correos enviados 
+satisfactoriamente y los que no fueron enviados con la trazabilidad de la causa y el error. 
+Se debe contar con la posibilidad de intentar enviar nuevamente un correo que quede en cola 
+debido a un error. 
+ 
+ 
+ 
+Requerimientos de 
+Fábrica 
+Documentación 
+ 
+Si el proyecto requiere el desarrollo de algún componente personalizado, se deberán tener en cuenta las 
+siguientes instrucciones: 
+ 
+✓ El proceso de desarrollo deberá ser documentado y almacenado en la herramienta de gestión de código 
+de RTVC (Bitbucket), para lo cual RTVC entregará uno o varios repositorios destinados para este proyecto. 
+ 
+✓ Los repositorios para la documentación de código deberán contar con tres ramas sobre las cuales se 
+debe trabajar en el siguiente orden: 
+- Develop: Rama sobre la cual se realizarán los desarrollos necesarios 
+- QA: Rama sobre la cual se publicarán desarrollos listos para pruebas 
+- Production: Rama sobre la cual se publicarán desarrollos aprobados por el equipo de QA 
+ 
+✓ La documentación del código deberá realizarse bajo el estándar Conventional Commits 
+ 
+✓ La documentación de todo el proceso de desarrollo, pruebas y ajustes finales se deberá realizar a través 
+de la herramienta de gestión de desarrollo de RTVC (Jira), para lo cual, RTVC otorgará hasta 5 usuarios. 
+ 
+
+-----
+✓ En la herramienta de gestión de desarrollo de RTVC (Jira) se creará un proyecto en donde se deberá 
+gestionar: Cronograma de entregas, Lista de tareas (Backlog), tablero de entregas y accesos directos a 
+los ambientes de pruebas. Por otra parte, se deberán utilizar los estados del tablero (Por hacer, en curso, 
+en revisión, listo) para todas las actividades de desarrollo.  
+ 
+✓ Cada actividad de desarrollo registrada en Jira deberá tener asociado un commit del Bitbucket 
+ 
+Requerimientos de 
+Interconexión y 
+acople con 
+soluciones ya 
+existentes 
+ 
+✓ El oferente deberá brindar acompañamiento en las integraciones que RTVC deba realizar en sus 
+sitios web   
+ 
+✓ El oferente deberá brindar acompañamiento en las configuraciones que RTVC deba realizar en las 
+redes sociales para configurar la API o servicios que se requieran 
+ 
+REQUERIMIENTOS DE ALISTAMIENTO 
+Requerimientos de 
+Instalación 
+✓ El oferente deberá realizar un plan de integración del chatbot. 
+✓ El plan de integración debe contemplar la implementación en redes sociales y en los sitios web de 
+RTVC. 
+✓ La implementación en sitios web estará a cargo de RTVC 
+✓ El oferente deberá brindar acompañamiento remoto en las actividades que RTVC deba realizar para 
+la implementación. 
+REQUERIMIENTOS DE ASEGURAMIENTO 
+Requerimientos de 
+Soporte 
+Soporte Técnico 
+ 
+Apoyo 
+ 
+El contratista deberá proveer todo el apoyo necesario tanto técnico como funcional en las fases de planeación 
+e implementación de estos nuevos desarrollos al personal designado por el supervisor del contrato 
+ 
+Soporte Funcional 
+ 
+Soporte Remoto 
+ 
+El contratista deberá proveer el soporte remoto en la modalidad 24*7 (24 horas al día, 7 días a la semana) en 
+todas las fases del desarrollo y los servicios objeto del contrato de acuerdo con los tiempos de respuesta de los 
+acuerdos de nivel de servicio.  Este soporte deberá contar con todos los canales de comunicación existentes 
+como:  correo electrónico, vía telefónica, videoconferencia, conexión por VPN, conexiones a los servidores de 
+nube y Herramienta de gestión de desarrollo de RTVC (Jira) 
+ 
+El contratista deberá documentar y dejar trazabilidad de los cambios realizados de conformidad con los 
+procedimientos que RTVC establezca para tal fin. 
+ 
+Mesa de Ayuda 
+ 
+El oferente deberá proveer y configurar a nombre de RTVC las respectivas credenciales (usuario y contraseña) 
+de una herramienta Service Desk, para el reporte de requerimientos e incidentes por parte de RTVC, y realizar 
+el seguimiento a los tiempos de respuesta y solución de estos. 
+ 
+Requerimientos de 
+Mantenimiento 
+ 
+✓ Una vez el Bot de Inteligencia Artificial se encuentre funcional y publicado para el usuario, RTVC 
+contará con 3 meses de mantenimiento y soporte 
+ 
+✓ Las actividades de mantenimiento y soporte serán asignadas a través de la herramienta de gestión 
+de desarrollo de RTVC (Jira) 
+ 
+✓ El contratista deberá realizar el mantenimiento y/o actualización de los desarrollos entregados. 
+ 
+Requerimientos de 
+Pruebas 
+Pruebas Funcionales y Técnicas 
+ 
+ 
+
+-----
+✓ Se deberá realizar por lo menos una prueba funcional para cada requerimiento descrito en este 
+anexo. 
+✓ Se deberá entregar un informe a RTVC con los resultados de las pruebas funcionales y el escenario 
+sobre el cuál se ejecutó. 
+✓ Se deberá entregar un informe a RTVC con los resultados de las pruebas funcionales 
+✓ Las pruebas funcionales se deberán ejecutar en un ambiente de pruebas acondicionado por parte de 
+RTVC 
+ 
+Pruebas de Aceptación 
+ 
+✓ RTVC podrá realizar las pruebas que considere necesarias para garantizar que el Bot de Inteligencia 
+Artificial cumpla con los requerimientos y criterios definidos en este anexo técnico. 
+✓ RTVC podrá informar y solicitar la corrección de errores funcionales, errores técnicos, uso de malas 
+prácticas y mala integración y adaptación con las plataformas de RTVC. 
+✓ El oferente deberá dar solución a los inconvenientes reportados por RTVC 
+ 
+Requerimientos de 
+Calidad 
+Calidad 
+ 
+La calidad del producto software busca que este satisfaga los requisitos de los usuarios, lo que aporta valor a la 
+entidad. Estos requisitos como mínimo son: 
+  
+✓ Funcionalidad: Buscamos que el Bot de Inteligencia Artificial entregado realice lo que debe hacer, 
+asegurando que este funcione tal como está especificado en este anexo técnico. 
+✓ Fiabilidad: que el Bot de Inteligencia Artificial entregado cumpla con lo propuesto bajo las condiciones 
+procesos y durante el tiempo determinado. 
+✓ Usabilidad: esperamos que el Bot de Inteligencia Artificial entregado sea sencillo de usar, cumpliendo 
+las expectativas de los futuros usuarios de este. 
+✓ Eficiencia: buscamos que el Bot de Inteligencia Artificial entregado alcance el objetivo fijado, con el 
+tiempo marcado y con los recursos necesarios. 
+✓ Mantenimiento: que el Bot de Inteligencia Artificial entregado sea fácil de mantener y cuya localización 
+de los errores sea de forma sencilla. 
+✓ Portabilidad: Buscamos que el Bot de Inteligencia Artificial entregado sea compatible con otras 
+plataformas. 
+ANS 
+NIVELES DE SERVICIO 
+La calificación y control de la calidad del servicio prestado o bienes suministrados por EL CONTRATISTA será 
+realizada a través de diversos mecanismos de control y seguimiento. Es fundamental aclarar que esa evaluación 
+está relacionada con la forma de pago a EL CONTRATISTA y con las penalidades que se pudieran generar por 
+fallas en la prestación del servicio contratado. 
+La medición de la calidad del servicio se realizará a través del seguimiento a los ACUERDOS DEL NIVEL DEL 
+SERVICIO - ANS´s e INDICADORES DE SERVICIO definidos. El incumplimiento de alguno de estos no será 
+excusa para la afectación del servicio; de ahí la importancia del aseguramiento del servicio y de los niveles de 
+cumplimiento exigidos para el correcto funcionamiento de la solución. 
+Los tiempos de respuesta a fallas del servicio dependerá de la urgencia del incidente presentado. A continuación, 
+se describen los 3 niveles de urgencia determinados por RTVC los cuales se deben tener en cuenta para el ANS 
+de “Cumplimiento tiempos de solución a fallas”. 
+Acuerdos de Nivel de Servicio para las entregas:  
+Los tiempos pactados para las entregas según el contrato serán los acordados en el Plan de trabajo y 
+cronograma de las actividades lo cual serán medidos bajo la siguiente tabla: 
+ 
+ 
+
+-----
+ 
+Cumplimientos entregables 
+dentro del ANS 
+Descuento sobre el valor 
+de los entregables 
+Cumple  
+0% 
+Del día 1 al 3 de 
+incumplimiento  
+2% 
+Mayor a 3 días   
+5% 
+Superado los 3 días por cada 
+día adicional 
+0,5% 
+* Notas: 
+ 
+1. El ANS es medido por demoras en los tiempos de entrega dados por el contratista, en caso de que 
+la Demora sea atribuible a RTVC este tiempo no serán contemplados dentro de los tiempos de entrega. 
+2. El Descuento se realizará sobre el valor del último pago. 
+Acuerdos de Nivel de Servicio para el soporte del Bot de Inteligencia Artificial: 
+Nivel 
+Priori
+dad 
+Descripción 
+Tiempo 
+para el 
+primer 
+contacto 
+Tiempo máximo de diagnóstico 
+Nivel 1 
+Alta 
+Indisponibilidad 
+parcial o total 
+del 
+Bot 
+de 
+Inteligencia 
+Artificial 
+Inmediato 
+Máximo 6 horas hábiles, después del primer contacto 
+(en el evento en que no logre replicarse el incidente se acordará un plan de 
+trabajo) 
+Nivel 2 
+Media 
+Incorrecta 
+ejecución 
+y 
+funcionamiento 
+del 
+Bot 
+de 
+Inteligencia 
+Artificial y otro 
+tipo de errores 
+perceptibles 
+por el usuario 
+Inmediato - 
+Máximo 2 
+horas 
+hábiles 
+Máximo 24 horas hábiles, después del primer contacto 
+(en el evento en que no logre replicarse el incidente se acordará un plan de 
+trabajo) 
+Nivel 3 
+Baja 
+Errores 
+no 
+perceptibles 
+por el usuario 
+Inmediato - 
+Máximo 8 
+horas 
+Máximo 3 días hábiles, después del primer contacto 
+(en el evento en que no logre replicarse el incidente se acordará un plan de 
+trabajo) 
+ 
+Garantía 
+El oferente deberá garantizar la estabilidad del Bot de Inteligencia Artificial, el funcionamiento, y en caso de 
+requerirse el soporte técnico y funcional sobre la solución entregada y solicitada por RTVC 
+El oferente deberá garantizar por el término de 12 (doce) meses contados a partir del recibo a satisfacción del 
+objeto contratado sobre los desarrollos realizados por el contratista a solicitud de la entidad en cuanto a soporte, 
+mantenimiento y las actualizaciones respectivas 
+ 
+
+-----
+Requerimientos de 
+Documentación 
+Todos los manuales deberán ser entregados en formato editable y formato PDF Cada manual deberá estar 
+acompañado de una capacitación que podrá ser realizada de manera virtual.  A continuación, se listan los 
+manuales que el oferente deberá presentar:  
+ 
+✓ Manual de usuario:   
+Deberá contener el paso a paso e instrucciones que debe realizar el desarrollador o administrador del 
+Bot de inteligencia artificial para administrar y gestionar internamente. El manual debe contar con 
+apoyos visuales como gráficas, imágenes y pantallazos. Así mismo incluir restricciones, limitantes o 
+precauciones para el equipo de RTVC, ya sea desarrollador o administrador del Bot. 
+ 
+✓ Manual de administrador 
+Deberá contener el paso a paso e instrucciones que debe realizar el administrador del Bot de 
+inteligencia artificial para realizar cualquier configuración que sea desarrollada para este proyecto. El 
+manual debe contar con apoyos visuales como gráficas, imágenes y pantallazos. Así mismo incluir 
+restricciones, limitantes o precauciones para el equipo de RTVC, ya sea desarrollador o administrador 
+del Bot. 
+ 
+✓ Manual de la capa de BIG DATA 
+                Deberá contener toda la información que sea necesaria para entender el funcionamiento de la capa      
+                BIG DATA y las configuraciones que podrá realizar RTVC. El manual debe contar con apoyos   
+                visuales como gráficas, imágenes y pantallazos. Así mismo incluir restricciones, limitantes o 
+                precauciones para el equipo de RTVC, ya sea desarrollador o administrador del Bot. 
+ 
+✓ Manual de la capa de INTELIGENCIA ARTIFICIAL 
+Deberá contener toda la información que sea necesaria para entender el funcionamiento de la capa 
+de INTELIGENCIA ARTIFICIAL y las configuraciones que podrá realizar RTVC, así mismo, 
+instrucciones para el entrenamiento del Bot de inteligencia artificial. El manual debe contar con apoyos 
+visuales como gráficas, imágenes y pantallazos. Así mismo incluir restricciones, limitantes o 
+precauciones para el equipo de RTVC, ya sea desarrollador o administrador del Bot. 
+ 
+✓ Manual para la gestión de los servicios de nube 
+Deberá contener toda la información que sea necesaria para entender el funcionamiento de la capa 
+de los servicios de Nube que se utilicen para este proyecto y las configuraciones que podrá realizar 
+RTVC. El manual debe contar con apoyos visuales como gráficas, imágenes y pantallazos. Así mismo 
+incluir restricciones, limitantes o precauciones para el equipo de RTVC, ya sea desarrollador o 
+administrador del Bot. 
+ 
+✓ Manuales Técnicos 
+                Deberá contener la arquitectura de información, seguridad, disponibilidad y escalabilidad de la   
+                solución.  El manual debe contar con apoyos visuales como gráficas, imágenes y pantallazos. Así                         
+                mismo incluir restricciones, limitantes o precauciones para el equipo de RTVC, ya sea desarrollador o   
+                administrador del Bot. 
+ 
+✓ Manual de Base de Datos 
+                Deberá contener información que sea necesaria para entender la arquitectura de base de datos, la  
+                gestión de tablas, el almacenamiento de datos.  El manual debe contar con apoyos visuales como    
+                gráficas, imágenes y pantallazos. Así mismo incluir restricciones, limitantes o precauciones para el         
+                equipo de RTVC, ya sea desarrollador o administrador del Bot. 
+ 
+ 
+Nota:  El oferente deberá entregar todas las claves y accesos para los servicios de nube y las capas de 
+INTELIGENCIA ARTIFICIAL y BIG DATA 
+ 
+Requerimientos de 
+Formación 
+ 
+El oferente deberá proveer la formación técnica y funcional necesaria sobre la solución al personal mínimo para 
+tres (3) personas así: 
+ 
+-1 encargado de QA,  
+-1 desarrollador y  
+-1 líder técnico del proyecto 
+ 
+Designados por el supervisor del contrato para administrar y disponer de los recursos y servicios que impliquen 
+estos nuevos desarrollos.   
+
+-----
+ 
+ 
+Proyección Técnica:  María Alejandra Martínez 
+                    Cristian David Anzola 
+                    Lorena Echeverri 
+ 
+ 
+
+-----

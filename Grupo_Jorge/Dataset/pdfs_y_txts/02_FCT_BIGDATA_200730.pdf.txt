@@ -1,0 +1,1681 @@
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 1 de 
+24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+FICHA DE CONDICIONES TÉCNICAS ESENCIALES PARA LA 
+PRESTACIÓN DEL SERVICIO Y/O ENTREGA DEL BIEN (FCT) 
+Fecha 
+30/07/2020 
+1. DENOMINACIÓN DEL BIEN O SERVICIO  
+ 
+Prestar servicios para la Implementación de la gestión de la información transaccional a nivel 
+de Big Data y Analítica de datos, que contribuya a la consolidación, procesamiento y 
+presentación de datos de los procesos del Instituto Colombiano de Bienestar Familiar – ICBF. 
+2. CÓDIGO ESTÁNDAR DE PRODUCTOS Y SERVICIOS DE NACIONES UNIDAS 
+(UNSPSC, V.14.080) 
+ 
+ 
+UNSPSC 
+DETALLE 
+43232300  
+Software de consultas y gestión de datos  
+43233500  
+Software de intercambio de información  
+80101500  
+Servicios de consultoría de negocios y administración corporativa  
+80101600  
+Gerencia de proyectos  
+81111500  
+Ingeniería de software o hardware 
+81111700  
+Sistemas de manejo de información MIS  
+81111800  
+Servicios de sistemas y administración de componentes de sistemas  
+81112000 
+Servicio de datos  
+ 
+3. UNIDAD DE MEDIDA 
+ 
+Numeral 6.2.2.1: Productos. 
+Numerales 6.2.2.2 y 6.2.2.3: Mensual. 
+ 
+4. DESCRIPCIÓN GENERAL 
+ 
+El ICBF hace uso de diferentes herramientas tecnológicas para el cumplimiento de su misión, 
+la cual consiste en “(…) Promover el desarrollo y la protección integral de los niños, niñas y 
+adolescentes, fortaleciendo las capacidades de las familias como entornos protectores y 
+principales agentes de transformación social. (…)”; apoyado en las herramientas y recursos 
+tecnológicos propios y al servicio de la Entidad.  
+ 
+La Dirección de Información y Tecnología apoyado en el plan de acción y el lineamiento 
+CONPES identifica que (…) “Los datos son un activo estratégico que generan valor social y 
+económico, por lo que su explotación debe cumplir una función social, orientada a la 
+maximización de beneficios para todos los actores involucrados (…)”  
+ 
+Con el fin de dar cumplimiento al plan de acción de la entidad 2019-2022 en lo que compete 
+a la Dirección de Información y Tecnología respecto a la implementación de la gestión de la 
+información transaccional a nivel de Big Data y analítica de datos, cada vigencia representa 
+una fase en la ejecución de la iniciativa. Durante el año 2019 se realizó una fase de diagnóstico 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 2 de 
+24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+que permitió determinar el alcance hasta el 2022.   
+ 
+En el marco de la iniciativa del Plan Estratégico de Tecnologías de la Información (PETI) para 
+la vigencia 2020 se propone adelantar iniciativas Big Data, toda vez que el ICBF requiere 
+implementar acciones que conlleven a la obtención de una fuente de información única, 
+confiable, segura, flexible, con calidad e integridad que permita hacer analítica predictiva y 
+descriptiva con el fin de aportar información para la toma de decisiones y gestión institucional. 
+ 
+Por lo anterior, se requiere contratar el servicio de una firma especializada y con experiencia 
+en la Implementación de la gestión de la información transaccional a nivel de Big Data y 
+Analítica de datos dada la complejidad de las fuentes de información y la gran cantidad de 
+registros con que cuenta el ICBF.  
+ 
+Las actividades que pretende realizar la entidad con la consolidación, procesamiento y 
+presentación de datos a través de Big Data son las siguientes:  
+ 
+4.1 Realizar Análisis de fuentes de datos de ICBF 
+ 
+Es de anotar que los indicadores institucionales, pueden variar por redefinición de las áreas 
+misionales para la vigencia 2020. Los indicadores a implementar serán definidos por el ICBF, 
+según los lineamientos de la Dirección de Planeación y serán entregados por parte del 
+supervisor del contrato de acuerdo a la disponibilidad presupuestal. 
+ 
+Con el resultado del análisis de las fuentes de datos del ICBF se busca que el contratista: 
+ 
+- Realice un análisis de la situación actual basado en las diferentes fuentes de datos con las 
+que cuenta el ICBF internas, externas y Master Data Management Institucional. 
+- Documente, a partir de las fuentes de información analizadas, las metodologías que 
+apliquen y los indicadores definidos por el ICBF que generan valor a la institución para la 
+implementación de los diferentes modelos de datos y analítica en los marcos de Big Data 
+y Analítica. 
+ 
+4.2 Realizar Implementación de la gestión de la información transaccional a nivel de 
+Big Data y Analítica 
+ 
+Una vez aprobada por el supervisor la metodología, se procede a la selección de aquellos 
+indicadores que puedan implementarse en el marco presupuestal del contrato, bajos las 
+siguientes características. 
+ 
+- 
+Unicidad 
+- 
+Confiabilidad 
+- 
+Flexibilidad 
+- 
+Fuentes propias 
+- 
+Seguridad 
+- 
+Reglas de negocio 
+- 
+Históricos 
+- 
+Analítica predictiva  
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 3 de 
+24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+ 
+ 
+5. 
+NORMATIVIDAD APLICABLE (específica para el servicio y/o bien) 
+ 
+- Plan Nacional de Desarrollo 2018-2022, artículo 92º. Transformación digital pública.  
+- CONPES 3920 del 17 abril de 2018. Política Nacional de explotación de datos (Big Data). 
+- CONPES 3975 de 2019 (Política nacional para la transformación digital e inteligencia 
+artificial) 
+- Norma ISO 9001. Elaborada por la Organización Internacional para la Estandarización 
+(International Standarization Organization o ISO por sus siglas en inglés), determina los 
+requisitos para un Sistema de Gestión de la Calidad, que pueden utilizarse para su 
+aplicación interna por las organizaciones, sin importar si el producto y/o servicio lo brinda 
+una organización pública o empresa privada, sirve principalmente para ayudar a las 
+organizaciones a controlar y mejorar su rendimiento y conducirles hacia la eficiencia, 
+servicio al cliente y excelencia en el producto. 
+- Norma ISO 27001. Es una norma internacional que permite el aseguramiento, la 
+confidencialidad e integridad de los datos y de la información, así como de los sistemas 
+que la procesan. Especifica los requisitos necesarios para establecer, implantar, mantener 
+y mejorar un sistema de gestión de la seguridad de la información (SGSI) según el 
+conocido “Ciclo de Deming”: PDCA - acrónimo de Plan, Do, Check, Act (Planificar, Hacer, 
+Verificar, Actuar). 
+- ISO 25000. Conocida como System and Software Quality Requirements and Evaluation – 
+SquaRE por sus siglas en inglés, tiene como objetivo la creación de un marco de trabajo 
+común para evaluar la calidad del producto software. 
+- CMMI. Integración de modelos de madurez de capacidades o Capability Maturity Model 
+Integration por sus siglas en inglés, es un modelo para la mejora y evaluación de procesos 
+para el desarrollo, mantenimiento y operación de sistemas de software 
+- Ley 527 de 2009 Acceso y uso de mensajes de datos 
+- Ley 1581 de 2012 de Protección de datos personales 
+- Ley 1712 de 2014 Acceso a la información pública 
+- Ley 1273 de 2009 Modificación del Código Penal -bien jurídico tutelado “protección de la 
+información y de los datos”. 
+- Ley 23 de 1982 de Derechos Autor y Ley 1915 de 2018. 
+- Resolución Interna del ICBF No. 9674 de 2018 “Por medio de la cual se adopta la política 
+de seguridad y privacidad de la información, seguridad digital y continuidad de la 
+operación, las políticas generales de manejo y se definen lineamientos frente al uso y 
+manejo de la información y se deroga una resolución” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 4 de 
+24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+6. 
+ESPECIFICACIONES TÉCNICAS DE LOS INSUMOS, BIENES, PRODUCTOS, OBRAS 
+O SERVICIOS A ENTREGAR 
+ 
+6.1 DEFINICIONES 
+ 
+- Analítica: conjunto de técnicas relacionadas con el análisis de datos relativos a la 
+información institucional con el objetivo de entender su comportamiento como punto de 
+partida para optimizar los procesos y facilitar la toma de decisión. 
+- Analítica Descriptiva: es una etapa preliminar de procesamiento de datos que crea un 
+resumen de los datos históricos para proporcionar información útil y, de esta manera, 
+preparar los datos para su posterior análisis.1 La analítica descriptiva da respuesta al 
+cuestionamiento de que pasa en el momento actual. 
+- Analítica de Diagnóstico: este tipo de analítica avanzada de datos surgió para ayudar a 
+responder la pregunta ¿Por qué ha pasado esto en el negocio? Esta es la segunda etapa 
+de la analítica avanzada de datos.2 
+- Analítica Predictiva:  la analítica predictiva es una forma de análisis avanzado que utiliza 
+datos nuevos e históricos para predecir la actividad futura, el comportamiento y las 
+tendencias.3 
+- Analítica Prescriptiva: la analítica prescriptiva se refiere a la analítica que busca brindar 
+recomendaciones óptimas durante el proceso de toma de decisiones. A diferencia de la 
+analítica descriptiva o el análisis predictivo, los análisis prescriptivos determinan las formas 
+en que los procesos de negocios deben evolucionar o ser modificados.4 
+- Históricos: Consisten en la recolección y análisis de datos almacenados como fuentes de 
+información en el transcurso del tiempo y que se utilizan para generar la analítica 
+descriptiva. 
+- Big Data: término que hace referencia a conjuntos de datos tan grandes y complejos que 
+requieren aplicaciones informáticas no tradicionales de procesamiento para tratarlos 
+adecuadamente. Por ende, los procedimientos usados para encontrar patrones repetitivos 
+dentro de esos datos son más sofisticados y requieren un software especializado. Con Big 
+Data se puede analizar para obtener ideas que conduzcan a mejores decisiones y 
+movimientos de negocios estratégicos.5 
+- Ciclo de procesamiento: cantidad de procesamientos que se debe realizar a los datos 
+antes de aplicar las reglas para su exposición. El ciclo de procesamiento de datos se 
+enmarca en el concepto de métodos y procedimientos que permiten obtener información a 
+partir de la entrada de datos, su procesamiento y la salida de los mismos. 
+- Ciclo de vida de desarrollo de software: conjunto de estados del progreso del proyecto 
+de creación de aplicaciones informáticas, para poder identificar cuánto se ha avanzado y 
+cuánto queda hasta el final, el ciclo de vida de desarrollo de software tiene las fases de 
+análisis, diseño, desarrollo, pruebas, paso a producción y estabilización6,7 
+- Confiabilidad:. se puede definir como la capacidad de un producto de realizar su función 
+ 
+1 https://www.arimetrics.com/glosario-digital/analitica-descriptiva  
+2 https://www.lis-solutions.es/consultoria-datos/analitica-avanzada/  
+3 https://searchdatacenter.techtarget.com/es/definicion/Analitica-predictiva-o-analisis-predictivo 
+4 https://www.arimetrics.com/glosario-digital/analitica-prescriptiva  
+5 https://es.wikipedia.org/wiki/Macrodato;  
+3 https://www.powerdata.es/big-data 
+7 G3.GTI Guía de Estándares de Especificación de Requerimientos - ICBF 
+ 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 5 de 
+24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+de la manera prevista.8 Adicionalmente hace referencia a la certeza de la calidad de la 
+información y de los datos expuestos. 
+- Escalabilidad (propiedad que supera le flexibilidad y personalización): es un 
+anglicismo que describe la capacidad de un negocio o sistema de crecer en magnitud. Por 
+ejemplo, un sistema de procesamiento y transacción en línea o un sistema administrador 
+de base de datos. 9 
+- Entregable: cualquier producto, resultado, o capacidad de prestar un servicio único y 
+verificable que debe producirse para terminar un proceso una fase o un proyecto. A menudo 
+se utiliza más concretamente con relación a un entregable externo, el cual está sujeto a la 
+aprobación por parte del cliente. 
+- Fuente de datos: es un punto de abastecimiento de información potencialmente útil para 
+el análisis de un proceso de negocio de nuestra organización.10 En el caso del ICBF hace 
+referencia a cada una de las bases de datos o estructuras de datos que se requieren para 
+analizar o extraer información. 
+- Fuentes propias: hace referencia a bases de datos de la entidad, estructuradas, 
+semiestructuradas y no estructuradas. 
+- Implementación: en ciencias de la computación, una implementación es la realización de 
+una especificación técnica o algoritmos como un programa, componente software, u otro 
+sistema de cómputo. Esto incluye el análisis de requisitos, análisis del impacto, 
+optimizaciones, sistemas de integración, política de uso, aprendizaje del usuario, entre 
+otros.  
+- Indicador: en indicador es la expresión cuantitativa del comportamiento y desempeño de 
+un proceso, cuya magnitud, al ser comparada con algún nivel de referencia, puede estar 
+señalando una desviación sobre la cual se toman acciones correctivas o preventivas según 
+el caso.11 
+- PETI: el Plan Estratégico de Tecnologías de la Información (PETI) es un documento que 
+define la estrategia bajo la cual se espera que las TI se integren con la misión, visión y 
+objetivos organizacionales. 
+- Reglas de negocio: son las condiciones propias del negocio que se aplican en los 
+procesos de extracción y exposición de datos. 12. 
+- Requerimiento: necesidad de un área documentada sobre el contenido, forma o 
+funcionalidad de un producto o servicio. 
+- Secop: (Sistema Electrónico de Contratación Pública), es una plataforma transaccional que 
+permite a Compradores y Proveedores realizar el Proceso de Contratación en línea. 
+(Agular, 2016). 
+- Seguridad: se refiere a medidas de protección de la privacidad digital que se aplican para 
+evitar el acceso no autorizado a los datos y todas aquellas medidas vinculadas a la 
+institución mediante sus políticas de seguridad.13 
+- Tablero de control: es una herramienta fundamental para monitorear el comportamiento 
+de una organización o proyecto. (Martinez R., 2017) 
+- Unicidad: la medida en que todos los valores distintos de un elemento de datos aparecen 
+sólo una vez.14 
+ 
+8 https://www.eumed.net/libros-gratis/2007c/332/Confiabilidad.htm 
+9 https://es.wikipedia.org/wiki/Escalabilidad 
+10 https://johnfaberblog.wordpress.com/2016/07/27/fuentes-de-datos/ 
+11 https://reliabilityweb.com/sp/articles/entry/los-indicadores-de-gestion 
+12 https://es.wikipedia.org/wiki/Reglas_de_negocio 
+13 https://www.powerdata.es/calidad-de-datos 
+14 https://www.powerdata.es/calidad-de-datos 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 6 de 
+24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+ 
+Se debe garantizar que los productos entregados cumplan con los requerimientos de 
+seguridad informática y de la información. 
+ 
+ 
+6.2 ETAPAS DE EJECUCIÓN DEL CONTRATO 
+ 
+Durante la ejecución del contrato se contemplarán las siguientes etapas: 
+- 
+Etapa de Planeación 
+- 
+Etapa de Operación 
+- 
+Etapa de Control 
+- 
+Etapa de Cierre y finalización 
+Los entregables que se desarrollen durante todas las etapas del contrato, deben cumplir con 
+los siguientes requisitos: 
+- Ser aprobados en su totalidad por la supervisión del contrato. 
+- Ser entregados en medio físico (cuando se requiera) y digital al Instituto Colombiano de 
+Bienestar Familiar – ICBF, en la herramienta o medio definido por la entidad. 
+ 
+6.2.1 ETAPA DE PLANEACIÓN 
+ 
+Con el fin de iniciar la ejecución del contrato se define la etapa de planeación, que busca dar 
+a conocer al contratista el modelo de trabajo que se desarrollará durante la ejecución del 
+contrato. Se establece el Plan de Gestión del Proyecto que contemple los documentos y 
+herramientas para la ejecución del contrato.  
+ 
+En este período se contemplarán las siguientes actividades:  
+- Mesas de trabajo entre el contratista y el ICBF donde se socializarán los documentos 
+iniciales para la ejecución del contrato. Así mismo, durante estas sesiones se darán a 
+conocer los documentos o formatos que se utilizarán para la construcción y entrega de los 
+productos. 
+- El contratista deberá presentar el equipo de trabajo para iniciar la ejecución del contrato, 
+de conformidad con el Anexo No. 1. Personal mínimo requerido para la prestación del 
+servicio y/o entrega del bien. 
+- El contratista recibirá la transferencia de información y conocimiento de las fuentes de 
+datos, aplicaciones, sistemas de información y/o soluciones tecnológicas. 
+- El contratista recibirá la Información general del ICBF como son su misión, visión, objetivos 
+institucionales, pilares estratégicos, valores, estructura organizacional, el sistema integrado 
+de gestión y sus funciones, deberes, así mismo conocerá los lineamientos, directrices, 
+guías, procedimientos, formatos, herramientas, y demás elementos que debe tener en 
+cuenta para la ejecución del contrato. 
+ 
+El contratista recibirá el modelo operativo definido por el ICBF para la ejecución del contrato, 
+el cual contempla entre otros aspectos la dinámica de trabajo que se tendrá durante su 
+ejecución, las reuniones de seguimiento, los comités técnicos a realizar, los requisitos 
+documentales, enlaces para la ejecución de las actividades del contrato. Esto con el fin de 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 7 de 
+24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+acordar el plan de gestión del proyecto que permitan una ejecución ágil de las actividades 
+entre el contratista y el ICBF de acuerdo con las especificaciones técnicas del presente 
+documento. 
+ 
+El contratista deberá contar con una metodología o herramienta que le permita gestionar los 
+procesos de estimación y cuantificación de esfuerzo, tiempos y costos para la implementación 
+de los indicadores de acuerdo con la complejidad descrita en el Anexo No. 2. Matriz 
+Definición de Complejidad. 
+ 
+Para los demás casos (transferencia de conocimiento tecnológico, soporte técnico para 
+afinamiento, entre otros) el contratista estimará el esfuerzo y tiempo, a partir del criterio y 
+experiencia de profesionales expertos (casos conceptuales y/o muestreo). 
+ 
+ 
+6.2.1.1 Entregables Etapa de planeación 
+ 
+Como resultado final de la etapa de planeación, los documentos que deben entregarse para 
+la revisión y aprobación del supervisor del contrato son los siguientes: 
+ 
+Plan de Gestión del Proyecto que incluya: 
+ 
+• 
+Alcance detallado del proyecto 
+- Supuestos del proyecto 
+- Restricciones 
+- Elementos fuera del alcance 
+- Entregables del proyecto 
+- Criterios de aceptación 
+• 
+Cronograma: se deben incluir las actividades e hitos principales, informes mensuales 
+y reuniones de seguimiento periódico, las cuales deben ser acordadas con el Instituto 
+Colombiano de Bienestar Familiar – ICBF.  
+• 
+Plan de comunicaciones: matriz de escalamiento, formalización de reuniones y 
+mecanismos para la resolución de conflictos. 
+• 
+Plan de equipo de trabajo: proceso para reemplazo de los miembros del equipo de 
+trabajo y definición de mecanismos para la transferencia de conocimiento. 
+• 
+Plan de calidad: aseguramiento de calidad, indicadores, seguimiento, donde se 
+especifiquen en cada etapa los criterios de control de calidad y las herramientas y/o 
+formatos que se establecerán para su verificación, validación y aceptación. 
+• 
+Plan de gestión y administración de riesgos definidos en el contrato. 
+• 
+Plan de gestión de los costos:  planificar, estructurar y controlar los costos del 
+proyecto. 
+• 
+Metodología de estimación de esfuerzo teniendo en cuenta lo siguiente: 
+- Procedimiento de evaluación de complejidad de los procesos de información. 
+- Procedimiento para la atención y solución de incidentes. 
+- Procedimiento de implementación ágil de aplicaciones con priorización. 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 8 de 
+24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+ 
+La entidad proveerá al contratista los ambientes de pruebas y producción para la 
+implementación. 
+La duración de la etapa de planeación será de una (1) semana contada a partir del 
+cumplimiento de los requisitos de perfeccionamiento y ejecución del contrato. La supervisión 
+realizará la revisión y aprobación del Plan de Gestión del Proyecto.   
+ 
+6.2.2 ETAPA DE OPERACIÓN 
+ 
+Durante la etapa de operación se contempla el análisis detallado de fuentes de información 
+de los indicadores seleccionados en el marco del presente contrato, de la implementación de 
+la gestión de la información transaccional a nivel de Big Data y Analítica de datos.  
+ 
+ 
+6.2.2.1 Análisis de Fuentes ICBF y entregables. 
+  
+6.2.2.1.1 
+Definición necesidades de información. 
+ 
+Realizar un análisis de la situación actual basado en el inventario de las diferentes fuentes de 
+datos con las que cuenta el ICBF, realizando el entendimiento de los orígenes de la 
+información y estableciendo aquellas que pueden ser medibles. 
+6.2.2.1.2 
+Estudio y comprensión de datos. 
+ 
+Documentar, a partir de las fuentes de información analizadas, las metodologías que apliquen 
+para la implementación de los diferentes modelos de datos, en los marcos de Big Data y 
+Analítica de datos de la entidad identificando los siguientes factores. 
+6.2.2.1.2.1.1 Identificación fuentes de información. 
+ 
+Determinar los orígenes de la información, posibilidad de acceso y su ubicación. 
+6.2.2.1.2.1.2 Identificación tipos de datos estructurados, semiestructurados y no 
+estructurados. 
+Determinar de las fuentes de datos cuáles están categorizadas en los tipos estructurados, 
+semiestructurados y no estructurados. 
+6.2.2.1.2.1.3 Definición de metodología de consolidación y procesamiento. 
+Establecer la metodología de consolidación y procesamiento de la información que sirva como 
+insumo para los cálculos de los datos e indicadores definidos. 
+6.2.2.1.2.1.4 Definición Modelo de calidad de los datos y depuración de datos. 
+Establecer la metodología para la aplicación de modelos de calidad de datos y procesos de 
+depuración de datos. 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 9 de 
+24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+6.2.2.1.2.1.5 Lineamientos de gestión de los datos. 
+Estructurar los modelos para la gestión jerárquica para las métricas e indicadores a nivel 
+operativo, táctico y estratégico. 
+ 
+Para las actividades planteadas en Análisis de Fuentes ICBF y Entregables se definen los 
+siguientes entregables:  
+  
+Actividad 
+Entregable 
+6.2.2.1.1. 
+Definición 
+necesidades 
+de 
+información. 
+ 
+Documento de Análisis de Situación Actual de las 
+fuentes de datos identificadas en el ICBF tanto 
+externas como internas. 
+6.2.2.1.2 Estudio y comprensión de datos. 
+Documento 
+de 
+las 
+fuentes 
+analizadas 
+y 
+Recomendación 
+de 
+Metodología 
+para 
+la 
+implementación de la gestión de la información 
+transaccional a nivel de Big Data y Analítica de datos 
+que contenga: 
+ 
+1. 
+Identificación de fuentes de información y 
+lineamientos para su definición. 
+2. 
+Identificación de tipos de datos estructurados, 
+semiestructurados y no estructurados y sus 
+lineamientos para su definición. 
+3. 
+Definición de procedimientos de consolidación, 
+procesamiento y presentación de tipos de 
+datos 
+fuente 
+interna, 
+externa, 
+datos 
+estructurados, 
+semiestructurados 
+y 
+no 
+estructurados y sus lineamientos. 
+4. 
+Definición de modelos de calidad de los datos, 
+depuración de datos y sus lineamientos. 
+5. 
+Definición de los lineamientos para la gestión 
+jerárquica para las métricas e indicadores a 
+nivel operativo, táctico y estratégico. 
+La supervisión realizará el recibido a satisfacción de los entregables definidos para esta etapa. 
+6.2.2.2 Implementación de la gestión de la información transaccional a nivel de Big Data 
+y Analítica de datos. 
+ 
+Una vez identificada la metodología a aplicar y seleccionados los indicadores a implementar, 
+se define el nivel de complejidad para cada indicador y se establece el Plan de Implementación 
+por Indicador, el cual contará con el aval de la supervisión del contrato. 
+ 
+Nota. En el Anexo No. 3. Matriz de Indicadores se identifica una lista de indicadores de 
+referencia que podrá variar durante la ejecución del contrato. 
+ 
+Para esta actividad se deben tener en cuenta los criterios definidos en el numeral 6.1 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 10 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+Definiciones de la Ficha técnica de condiciones por el ICBF, así: 
+ 
+- 
+Unicidad 
+- 
+Confiabilidad 
+- 
+Escalabilidad (propiedad que supera le flexibilidad y personalización) 
+- 
+Fuentes propias 
+- 
+Seguridad 
+- 
+Reglas de negocio 
+- 
+Históricos 
+- 
+Analítica predictiva  
+ 
+Los criterios expuestos serán presentados por el contratista en una lista de chequeo y 
+avalados por el supervisor que se anexará como parte de los entregables definidos en este 
+numeral. 
+  
+Adicionalmente, el contratista debe tener en cuenta la tipificación de la complejidad de los 
+indicadores teniendo como base el Anexo No. 2. Matriz Definición de Complejidad. 
+ 
+En caso de presentar diferencia en la tipificación de la complejidad del indicador esta se 
+acordará entre el contratista y el ICBF teniendo como referencia los criterios definidos en el 
+Anexo No. 3. Matriz de Indicadores. 
+ 
+6.2.2.2.1 Entregables Implementación de la gestión de la información transaccional a 
+nivel de Big Data y Analítica de datos. 
+ 
+La implementación de cada indicador debe contener los siguientes entregables: 
+ 
+Plan de Implementación por indicador que incluya:  
+- Asignación de recurso humano. 
+- Asignación de recursos de hardware o software para el despliegue en ambientes de 
+pruebas y producción, si se requiere. 
+- Cronograma de trabajo.  
+ 
+Documentación técnica que contemple lo relacionado en los siguientes numerales: 
+6.2.2.2.2 Análisis de datos y caracterización. 
+6.2.2.2.2.1 Modelo de entrada datos fuentes internas y /o externas. 
+6.2.2.2.2.2 Modelo de almacenamiento datos fuentes internas y/o externas. 
+6.2.2.2.2.3 Modelo de integración. 
+ 
+6.2.2.2.3 Modelado. 
+6.2.2.2.3.1 Modelado de la información. 
+• 
+Modelo de vista funcional (Vista presentación de los datos). 
+• 
+Modelo de vista estructural (componentes de alto nivel). 
+• 
+Modelo de vista de implementación (Flujo de información desde la fuente a la 
+presentación, modelo de calidad de datos). 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 11 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+• 
+Documento de diseño del modelo y los componentes de datos. 
+• 
+Descripción de los componentes o artefactos de extracción, consolidación, 
+procesamiento, calculo, gestión histórica y proyección de la información. 
+procedimientos almacenados a ser modificados. 
+• 
+Documento de diseño de interfaz de los reportes y tableros de control a presentar por 
+producto. 
+• 
+Documento de administración de componentes del modelo de datos (como mínimo 
+procedimiento de seguridad y procedimiento de respaldo). 
+• 
+Modelo de vista de despliegue (como mínimo diagrama de despliegue). 
+• 
+Diccionario de datos.  
+ 
+6.2.2.2.3.2 Modelo de seguridad. 
+ 
+• 
+Modelo para el acceso a las fuentes de información. 
+• 
+Modelo jerárquico y segmentado para presentación de la información (Roles por 
+visualización y limitantes). 
+ 
+6.2.2.2.4 Obtener y presentar datos. 
+ 
+• 
+Materialización en Scripts, componentes y/o artefactos para la gestión de la 
+información a través de modelos de Big Data y Analítica. 
+ 
+6.2.2.2.4.1 Modelos de búsqueda y extracción. 
+ 
+Scripts, Componentes y/o artefactos para la gestión de búsqueda y extracción de información 
+en las diferentes líneas del modelo. 
+6.2.2.2.4.2 Modelo de consolidación. 
+ 
+Scripts, Componentes y/o artefactos para la consolidación de información. 
+6.2.2.2.4.3 Modelo de procesamiento. 
+Scripts, Componentes y/o artefactos para el procesamiento de información. 
+6.2.2.2.4.4 Modelo de presentación de los datos. 
+ 
+Scripts, Componentes y/o artefactos para la presentación de la información (Tableros, cuadros 
+de mando) 
+6.2.2.2.5 Despliegue 
+ 
+6.2.2.2.5.1 Entrega documentación funcional, técnica y de despliegue. 
+ 
+• 
+Scripts Código fuente documentado y control de versiones de la solución. 
+• 
+Componentes de instalación de la solución. 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 12 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+• 
+Pruebas unitarias.  
+• 
+Manuales de Instalación, Operación y Configuración.  
+• 
+Instalación de la solución en ambientes de pruebas ICBF.  
+• 
+Control de versionamiento de los desarrollos entregados.  
+• 
+Documento de casos de prueba funcionales y no funcionales.  
+• 
+Informe con el resultado de la ejecución de las pruebas, que involucre las siguientes 
+pruebas, para los casos que aplique: 
+• 
+Pruebas de funcionalidad. 
+ 
+• 
+Pruebas de configuración. 
+• 
+Pruebas de seguridad y de control de acceso. 
+• 
+Pruebas de interfaz de usuario. 
+• 
+Registro de incidentes o defectos, su tratamiento y tiempo de solución. 
+• 
+De acuerdo con las necesidades de la implementación del indicador, adicionalmente se 
+pueden solicitar por parte del supervisor del contrato algunas de las siguientes pruebas:  
+• 
+Pruebas de base de datos e integridad de datos. 
+• 
+Pruebas de concurrencia. 
+• 
+Pruebas de desempeño: analizar y asegurar el mejor desempeño del procesamiento, a 
+través de métricas. 
+• 
+Pruebas de carga. 
+• 
+Pruebas de recuperación de fallas. 
+• 
+Pruebas de los servicios de interoperabilidad. 
+• 
+Pruebas de aceptación. 
+ 
+Nota. El Contratista realizará las pruebas necesarias para el indicador implementado cumpla 
+con las especificaciones técnicas y funcionales definidas. El ICBF, a través del grupo de 
+Calidad y Pruebas de la Subdirección de Sistemas Integrados de Información, realizará los 
+ciclos de pruebas correspondientes (una vez el contratista entregue el indicador 
+implementado en ambiente de pruebas) para garantizar la calidad de los desarrollos, antes 
+de efectuar el paso a producción. Los ciclos de pruebas que realice el ICBF, así como la 
+cantidad de defectos identificados serán los que se tomarán para realizar la medición de los 
+ANS definidos en el numeral 6.4 ACUERDOS DE NIVELES DE SERVICIO del presente 
+documento. 
+ 
+6.2.2.2.5.2 Aprovisionamiento infraestructura. 
+ 
+Documento de arquitectura de despliegue con definiciones técnicas para la preparación de 
+los entornos de implementación. 
+6.2.2.2.5.3 Despliegue de la funcionalidad. 
+ 
+• 
+Formato de Requerimiento de Cambio – RFC (Checklist Request for Change). 
+• 
+Documento de protocolo de soporte. 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 13 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+• 
+Realizar la capacitación a usuarios funcionales y transferencia de conocimiento a 
+enlaces técnicos de los indicadores implementados en la etapa de operación. 
+• 
+Actas de Reuniones realizadas. 
+• 
+Formatos de Asistencia. 
+ 
+Nota: se realiza una sesión de capacitación para los usuarios funcionales y una sesión de 
+transferencia de conocimiento para los enlaces técnicos, estas sesiones podrán realizarse de 
+manera remota en caso de que continúe el estado de emergencia decretado por el gobierno 
+nacional en virtud de la pandemia generada por el COVID –19. 
+ 
+La supervisión realizará el recibido a satisfacción de los entregables definidos para la 
+implementación de cada indicador.  
+ 
+Los ambientes de Pruebas, Producción y la administración del código fuente estarán bajo el 
+control y administración del Instituto Colombiano de Bienestar Familiar - ICBF, por lo tanto, el 
+despliegue en ambientes de producción de los indicadores implementados estará a cargo del 
+ICBF con acompañamiento y soporte del Contratista. 
+ 
+La etapa de operación será de 10 semanas contadas a partir de la finalización de la etapa de 
+planeación. 
+ 
+6.2.3 ETAPA DE CONTROL 
+ 
+Corresponde al monitoreo y control del contrato que deberá ser realizado principalmente por 
+el Gerente de proyecto, líder técnico y/o líder de calidad del contratista. El objetivo de esta 
+etapa es realizar control permanente durante toda la ejecución del contrato, facilitando el 
+seguimiento de este. 
+6.2.3.1 Entregables de la etapa de control  
+Informe de seguimiento del avance semanal  
+sobre la ejecución del contrato, que contemple lo siguiente: 
+- 
+Información general del contrato (porcentaje de ejecución en tiempo y costo) 
+- 
+Avance de la implementación de los indicadores.  
+- 
+Equipo de trabajo involucrado 
+- 
+Verificación de cumplimiento de calidad (Niveles de servicio), control sobre 
+incumplimientos, planes de mejora. 
+- 
+Actividades planeadas, realizadas y atrasadas. 
+- 
+Seguimiento y control de riesgos y su tratamiento. 
+- 
+Acciones correctivas y recomendaciones. 
+- 
+Gestión de estabilización y garantía de indicadores publicados en producción 
+ 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 14 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+Junto con el informe, el contratista debe entregar los soportes que den cumplimiento de 
+obligaciones contractuales durante la ejecución del contrato, de acuerdo con lo definido para 
+cada una de ellas.  
+6.2.4 ETAPA DE CIERRE Y FINALIZACIÓN 
+ 
+El objetivo de esta etapa es finalizar la entrega de la documentación de la ejecución del 
+contrato para formalizar la terminación a satisfacción y proceder a la liquidación del mismo. 
+ 
+6.2.4.1 Entregables etapas de cierre y finalización  
+ 
+El contratista deberá finalizar la entrega al supervisor del contrato todos los entregables 
+definidos en el marco del contrato, de tal manera que el ICBF no se vea afectado en su 
+operación y pueda continuar con los respectivos servicios, sin dependencia técnica u  
+operativa de la firma elegida durante el proceso de contratación.  
+ 
+Esta etapa contempla la realización de las siguientes actividades: 
+ 
+- 
+Realizar con todas las formalidades de Ley la cesión de derechos de autor, derechos 
+patrimoniales, propiedad intelectual y/o propiedades de uso correspondientes al Instituto 
+Colombiano de Bienestar Familiar – ICBF. 
+- 
+Presentar y entregar el informe de cierre del contrato. 
+ 
+La etapa de cierre y finalización será de una (1) semana contada a partir de la finalización de 
+la etapa de operación. 
+6.3 ROLES DEL EQUIPO DE TRABAJO 
+ 
+Para la ejecución de las etapas descritas en el presente documento, el contratista deberá 
+contar con un equipo de trabajo mínimo requerido conformado por: Gerente de proyecto, Líder 
+Técnico y Líder de Calidad. Adicionalmente, debe contar con un equipo de trabajo por 
+demanda, requeridos para la ejecución del contrato. Cada equipo está conformado por unos 
+roles y perfiles mínimos, los cuales se describen en el Anexo No. 1 - Personal mínimo 
+requerido para la prestación del servicio y/o entrega del bien.  
+ 
+El contratista deberá presentar al inicio del contrato las hojas de vida y soportes 
+correspondientes de los integrantes del equipo de trabajo a emplear que acrediten 
+cumplimento igual o mayor de los requisitos del perfil solicitado. 
+ 
+De requerirse algún cambio en el equipo durante la ejecución del contrato, el contratista 
+deberá presentar, las hojas de vida y los soportes correspondientes de los nuevos integrantes 
+acreditando cumplimento igual o mayor de los requisitos del perfil solicitado. 
+ 
+Para la asignación del equipo por demanda para la implementación de cada indicador, el 
+contratista contará con un plazo de tres (3) días hábiles, una vez recibida la solicitud del 
+servicio requerido.  
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 15 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+ 
+La cantidad de profesionales y la dedicación requerida del equipo por demanda para la 
+implementación de cada indicador, será determinada por el contratista y aprobada por el 
+supervisor del contrato, deberá ser suficiente y necesaria para asegurar la entrega de los 
+productos y cumpliendo con los Acuerdos de nivel de servicios - ANS establecidos en el 
+Anexo No. 4. Acuerdos de Nivel de Servicio.  
+ 
+6.4 ACUERDOS DE NIVELES DE SERVICIO 
+ 
+Para la definición de los Acuerdos de Nivel de Servicios - ANS es importante tener claro los 
+siguientes conceptos: 
+ 
+- 
+Defecto: es una característica con el potencial de causar una falla, que ocurre cuando el 
+comportamiento es diferente al establecido en la especificación originada tanto por el 
+software como por el hardware que lo soporta. 
+- 
+Defecto Crítico: 
+- Cuando los usuarios no pueden utilizar las funcionalidades principales del sistema. 
+- Cuando no es posible realizar algún trabajo productivo. 
+- Cuando no se puede prestar el servicio a los usuarios y/o clientes. 
+- Cuando es necesario para utilizar el software, reiniciar la aplicación. 
+- 
+Defecto Mayor: 
+- Cuando el sistema opera con restricciones que impiden completar la operación de 
+negocio que define el caso de uso. 
+- Cuando el caso de uso desarrollado no cumple con la totalidad de las reglas de 
+negocio definidas en la especificación. 
+- Cuando el caso de uso desarrollado no cumple alguna de las validaciones de negocio 
+definidas en la especificación. 
+- 
+Defecto Menor: 
+- No se encuentran disponibles algunas funciones o componentes del sistema, que 
+generan un impacto mínimo para los usuarios del sistema. 
+- Cuando no obstante las limitaciones, el sistema permite completar la operación de 
+negocio que define el caso de uso. 
+- Cuando el impacto del defecto no genera un riesgo considerable, pero es necesario 
+resolverlo. 
+- 
+Defecto cosmético: 
+- 
+Se refiere a un mal funcionamiento de la interfaz de usuario, que impide la correcta 
+ejecución del sistema. 
+- 
+Entrega recibida a satisfacción: 
+- 
+Es aquella que cumple con el 100% de los criterios de aceptación de las 
+especificaciones de los requerimientos de implementación de indicadores, previa 
+validación con el equipo definido por el ICBF. Para ello se deberá firmar en señal de 
+aceptación el acta de los escenarios de aceptación del producto especificado, las 
+revisiones y verificaciones a nivel funcional serán realizadas por el equipo de la 
+dirección de planeación de la entidad. 
+ 
+Los acuerdos de nivel de servicios – ANS, que deben ser cumplidos por el CONTRATISTA se 
+relacionan en el Anexo No. 4. Acuerdos de Nivel de Servicio. 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 16 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+ 
+6.5 ESTABILIZACIÓN Y GARANTÍA DE LOS REQUERIMIENTOS 
+ 
+Una vez el indicador sea implementado en ambiente de producción, se inician los períodos 
+de estabilización y garantía. La estabilización tiene una duración de un mes (1), contado a 
+partir de la puesta en producción del indicador y la garantía tendrá una duración de dos (2) 
+meses, contados a partir de la finalización de la estabilización.  
+ 
+Durante la estabilización y garantía el contratista debe realizar la corrección de defectos de 
+funcionamiento sobre la implementación y entregar los siguientes productos: 
+- 
+Scripts, componentes, artefactos y código fuente y control de versiones de la solución 
+actualizado. 
+- 
+Artefactos de instalación, según se requiera. 
+- 
+Actualización de documentación técnica y funcional, según lo requerido. 
+- 
+Formato de Requerimiento de Cambio - RFC (Checklist Request for Change) 
+ 
+El contratista pondrá a disposición del contrato el recurso humano que sea necesario para 
+atender los defectos que se presenten en la estabilización y garantía. 
+ 
+Los períodos de estabilización y garantía no deben generar costos adicionales ni incluirá 
+requerimientos adicionales. En la garantía, los incidentes deberán ser atendidos con la 
+siguiente oportunidad teniendo en cuenta la definición de los Acuerdos de Nivel de Servicios 
+– ANS descritos en el numeral 6.4 ACUERDOS DE NIVELES DE SERVICIO del presente 
+documento: 
+ 
+Nivel de Criticidad 
+Tiempo de Atención 
+Tiempo de Respuesta 
+Crítico y mayores 
+2 horas 
+Dos (2) días hábiles 
+Menor y cosméticos 
+6 horas 
+Cuatro (4) días hábiles 
+ 
+6.6 HERRAMIENTAS TECNOLÓGICAS PARA LA EJECUCIÓN DEL CONTRATO 
+ 
+Para “Prestar servicios para la Implementación de la gestión de la información transaccional 
+a nivel de Big Data y Analítica de datos, que contribuya a la consolidación, procesamiento y 
+presentación de datos de los procesos del Instituto Colombiano de Bienestar Familiar – ICBF” 
+el contratista debe contar con el conocimiento y la experticia en las plataformas y 
+herramientas definidas en la ficha técnica requeridas para atender las solicitudes de 
+implementación de los diferentes modelos de datos y analítica al igual que la exposición de 
+datos del ICBF, de acuerdo con la metodología establecida las cuales podrán ser variables. 
+Para la gestión del contrato el ICBF asignará un ambiente de desarrollo al contratista para la 
+ejecución de sus actividades.  
+ 
+El contratista debe contar con la experticia en el manejo de las herramientas tecnológicas para 
+la ejecución del contrato, entre otras: 
+• 
+Visual Studio Team Services (VSTS), para la implementación de la gestión del 
+versionamiento. 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 17 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+• 
+SQL Server 2014 Enterprise o superior en versiones onpremise, para el uso de los 
+datos transaccionales de la entidad. 
+• 
+Versatilidad en herramientas para la presentación de datos. 
+• 
+Herramientas de procesamiento, consolidación y gestión de datos estructurados, 
+semiestructurados y no estructurados en plataformas de nube. 
+• 
+Sólidos conocimientos en las actividades de extracción, consolidación, procesamiento 
+y presentación de información, conforme con las actuales condiciones del ICBF. 
+ 
+Nota. El contratista al momento de la implementación de cada indicador deberá tener en 
+cuenta la infraestructura con la que cuenta la entidad y abierto a las herramientas genéricas 
+para la implementación de modelos de Big Data y Analítica en la nube. 
+ 
+Los equipos de escritorio y portátiles que se utilicen en la ejecución del contrato deben contar 
+con software licenciado y de seguridad. Estas características serán revisadas por la 
+Subdirección de Recursos Tecnológicos del ICBF quien dará el aval para ingreso y privilegios 
+de acceso a la red de ICBF de manera controlada y segura. 
+ 
+6.7 PROPIEDAD INTELECTUAL  
+ 
+Se deberá realizar la cesión de derechos de autor, derechos patrimoniales, propiedad 
+intelectual y/o propiedades de uso correspondientes al Instituto Colombiano de Bienestar 
+Familiar – ICBF. En consecuencia, el Instituto Colombiano de Bienestar Familiar - ICBF 
+adquiere la totalidad de los derechos patrimoniales, conservando el CONTRATISTA para sí 
+la titularidad de los derechos morales, de conformidad con lo previsto en la Decisión Andina 
+351 de 1993 y en la Leyes 23 de 1982, 44 de 1993 y 1915 de 2018, o en las normas que las 
+sustituyan, modifiquen o adicionen. 
+ 
+6.8 CONFIDENCIALIDAD 
+ 
+El Contratista debe establecer todas las medidas para garantizar la confidencialidad tanto de 
+la información que maneja del Instituto Colombiano de Bienestar Familiar - ICBF, como los 
+programas fuentes que se utilicen para el cumplimiento del contrato.  
+ 
+La información suministrada y en general cualquier tipo de información clasificada o reservada 
+conocida en desarrollo del objeto del contrato, deberá ser mantenida de manera confidencial 
+y privada, protegiendo dicha información para evitar su divulgación y/o circulación no 
+autorizada, ejerciendo sobre ésta el mismo grado de diligencia que utiliza para proteger 
+información de este tipo que tenga bajo su custodia, tomando para ello todas las medidas 
+técnicas y de cuidado. 
+ 
+El incumplimiento probado de esta regla por parte del contratista será causal para la 
+terminación del contrato. 
+ 
+6.9 PROTECCIÓN DE DATOS 
+ 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 18 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+Para la protección de datos en el marco de la ejecución del objeto contractual deberá tenerse 
+en cuenta el Anexo No. 5. Politica_de_tratamiento_de_datos_personales 
+ 
+7.  OBLIGACIONES DEL CONTRATISTA 
+ 
+7.1. Obligaciones generales 
+7.1.1. Cumplir con el objeto del contrato con plena autonomía técnica y administrativa y bajo 
+su propia responsabilidad, por lo tanto, no existe ni existirá ningún tipo de 
+subordinación, ni vínculo laboral alguno entre EL CONTRATISTA o su personal y el 
+ICBF.  
+7.1.2. Constituir y allegar a EL ICBF las garantías requeridas dentro de los tres (3) días 
+hábiles siguientes a la suscripción del contrato.  
+7.1.3. Participar y apoyar a EL ICBF en todas las reuniones a las que éste lo convoque 
+relacionadas con la ejecución del contrato.  
+7.1.4. Disponer de los medios necesarios para el mantenimiento, cuidado y custodia de la 
+documentación objeto del presente contrato.  
+7.1.5. Atender los requerimientos, instrucciones y/o recomendaciones que durante el 
+desarrollo del Contrato le imparta EL ICBF a través del supervisor de este, para una 
+correcta ejecución y cumplimiento de sus obligaciones.  
+7.1.6. Entregar al supervisor del Contrato los informes que se soliciten sobre cualquier 
+aspecto y/o resultados obtenidos cuando así se requiera.  
+7.1.7. Presentar la factura de conformidad con la forma de pago estipulada en el contrato, 
+junto con el informe de las actividades realizadas para cada pago. 
+7.1.8. Guardar estricta reserva sobre toda la información y documentos que tenga acceso, 
+maneje en desarrollo de su actividad o que llegue a conocer en desarrollo del contrato 
+y que no tenga carácter de pública. En consecuencia, se obliga a no divulgar por 
+ningún medio dicha información o documentos a terceros, sin la previa autorización 
+escrita del ICBF. 
+7.1.9. Asumir un buen trato para con los demás colaboradores internos y externos del 
+Instituto Colombiano de Bienestar Familiar, y actuar con responsabilidad, eficiencia y 
+transparencia. 
+7.1.10. Devolver al ICBF, una vez finalizado la ejecución del contrato los documentos que en 
+desarrollo del contrato se hayan producido, e igualmente todos los archivos que se 
+hayan generado en cumplimiento de sus obligaciones. 
+7.1.11. Colaborar con el ICBF en el suministro y respuesta de la información correspondiente, 
+a los requerimientos efectuados por los organismos de control del Estado Colombiano 
+en relación con la ejecución, desarrollo o implementación del contrato objeto del 
+presente documento. 
+7.1.12. Utilizar la imagen del ICBF de acuerdo con los lineamientos establecidos por éste. 
+Salvo autorización expresa y escrita de las partes, no se podrá utilizar el nombre, 
+emblema o sello oficial de la otra parte para fines publicitarios o de cualquier otra 
+índole. 
+7.1.13. Realizar los pagos al SISS (salud, pensión y riesgos laborales) y parafiscales, de 
+acuerdo con la normatividad vigente aportando los soportes de pago correspondientes. 
+7.1.14. Respetar la política medioambiental del ICBF, política que incluye todas las normas 
+internas sobre el uso de los recursos ambientales, como el agua y la energía, 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 19 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+racionamiento de papel, norma sobre parqueaderos y manejo de desechos residuales. 
+7.1.15. Cumplir con las disposiciones establecidas en el Capítulo “Buenas Prácticas en la 
+Gestión Contractual” del Manual de Contratación vigente. 
+7.1.16. Remitir al supervisor del contrato, dentro de los tres (3) días siguientes a la 
+consignación, copia del documento donde conste la operación que, por concepto de 
+reintegros, rendimientos financieros, multas o cualquier otro, se causen a favor de la 
+Entidad en razón a la ejecución del contrato. PARÁGRAFO: Las consignaciones a que 
+hace referencia esta obligación deben realizarse únicamente en la cuenta informada 
+por escrito por el supervisor del contrato. 
+ 
+7.2. 
+Obligaciones Específicas  
+ 
+7.2.1. Cumplir con plena autonomía técnica y administrativa con las especificaciones 
+técnicas y requisitos descritos en la presente Ficha de Condiciones Técnicas - FCT y 
+sus anexos. 
+7.2.2. Utilizar para el proceso a contratar el software y herramientas necesarias para la 
+prestación del servicio integral y que cuente con las licencias de uso en los casos que 
+se requiera. 
+7.2.3. Realizar seguimiento durante la ejecución del contrato e implementar acciones, con el 
+fin de prevenir posibles incumplimientos y retrasos en la ejecución. 
+7.2.4. Entregar al Supervisor del contrato, una relación del personal que se asignará al 
+contrato para la autorización de ingreso a las sedes e instalaciones del Instituto 
+Colombiano de Bienestar Familiar - ICBF. 
+7.2.5. Presentar al Supervisor del contrato, documentos definidos y requeridos en la FCT. 
+7.2.6. Garantizar la contratación de personal requerido en el Anexo No. 1. Personal mínimo 
+requerido para la prestación del servicio y/o entrega del bien, por el Instituto 
+Colombiano de Bienestar Familiar - ICBF para el desarrollo del contrato. 
+7.2.7. Realizar los cambios de personal por ausencias temporales o definitivas y/o a solicitud 
+del Supervisor, por personal de igual o superior preparación y experiencia, sin 
+interrumpir el servicio. La sustitución del personal se debe realizar dentro de los tres 
+(3) días hábiles siguientes a la solicitud del Supervisor u ocurrencia del hecho de 
+ausencia, sin generar costo adicional para la entidad, garantizando la prestación del 
+servicio. 
+7.2.8. Proveer los equipos de escritorio y portátiles e insumos mínimos necesarios para la 
+ejecución del contrato, de tal forma que se garantice el cumplimiento del objeto. 
+7.2.9. Documentar y soportar todos los procesos llevados a cabo durante la ejecución del 
+contrato y entregar la documentación técnica y administrativa al Supervisor designado. 
+7.2.10. Cumplir con las transferencias de conocimiento al grupo de trabajo de la Dirección de 
+Información y Tecnología y entregar las listas de asistencia a las mismas. 
+7.2.11. Publicar la información generada durante la ejecución del contrato de manera 
+completa y continua en el repositorio asignado por el ICBF. 
+7.2.12. Entregar los informes mensuales de seguimiento y control del contrato. Estos informes 
+deberán ser entregados los primeros 5 días hábiles de cada mes. 
+7.2.13. Dar respuesta a las sugerencias, reclamaciones y consultas que fueren de su 
+competencia, buscando solucionar los problemas que puedan afectar la adecuada 
+ejecución del contrato, en un término de tres (3) días hábiles al recibo de la solicitud.  
+7.2.14. Proporcionar la información adicional solicitada por la supervisión del contrato, cuando 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 20 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+esta se requiera para la elaboración del informe de ejecución y evaluación. 
+7.2.15. Realizar los trámites ante la entidad competente para el Registro de los derechos 
+patrimoniales, propiedad intelectual y/o propiedades de uso y remitir el certificado de 
+registro ante la Dirección Nacional de Derechos de Autor, como requisito para la 
+suscripción del acta de recibido final y para el último pago. 
+7.2.16. Asumir los Acuerdo de Nivel de Servicio definidos para la ejecución del contrato en el 
+Anexo No. 4. Acuerdos de Nivel de Servicio. 
+7.2.17. Dar cumplimiento a los términos pactados con las entidades con las cuales el ICBF 
+tiene acuerdo de interoperabilidad e intercambio de información en lo relacionado con 
+el uso de los datos para la ejecución del objeto contractual. 
+7.2.18. Garantizar el estricto cumplimiento a los protocolos establecidos en la Resolución 
+No.666 del 24 de abril de 2020 del Ministerio de Protección Social o la que se 
+encuentre vigente, por medio de la cual se adopta el protocolo general de bioseguridad 
+para mitigar, controlar y realizar el adecuado manejo de la pandemia del Coronavirus 
+COVID-19, y la demás normatividad vigente establecida por las autoridades del orden 
+Nacional, Departamental, Municipal o Institucional (ICBF), sobre el particular. 
+7.2.19. Cumplir con los protocolos establecidos en la Resolución No.666 del 24 de abril de 
+2020 o la que se encuentre vigente por Ministerio de Protección Social, descrita en la 
+obligación anterior. 
+ 
+7.3. 
+Obligaciones Específicas respecto al análisis de Fuentes ICBF 
+ 
+7.3.1. Entregar el documento Análisis de Situación Actual de las fuentes de datos 
+identificadas en el ICBF tanto externas como internas, según lo definido en el numeral 
+6.2.2.1.1. Definición necesidades de información.  
+7.3.2. Documento de las fuentes analizadas y Recomendación de Metodología para la 
+implementación de la gestión de la información transaccional a nivel de Big Data y 
+Analítica de datos que contenga lo definido en el numeral 6.2.2.1.2 Estudio y 
+comprensión de datos. 
+ 
+7.4. 
+Obligaciones Específicas respecto a la implementación de la gestión de la 
+información transaccional a nivel de Big Data y analítica de datos 
+ 
+7.4.1. Cumplir con los entregables definidos en la Implementación de la gestión de la 
+información transaccional a nivel de Big Data y Analítica de datos, de acuerdo con los 
+documentos requeridos. 
+7.4.2. Garantizar que en la implementación de los indicadores se aseguren las calidades 
+sistémicas: desempeño, presentación, unicidad, confiabilidad, flexibilidad y seguridad 
+de datos. 
+ 
+7.5. 
+Obligaciones del Sistema Integrado de Gestión 
+ 
+7.5.1. Para el eje de Gestión de Calidad 
+ 
+7.5.1.1. Asegurar que el personal requerido para la ejecución del contrato cuente con el perfil 
+de: Educación (formal: primaria, secundaria, pregrado, posgrado), formación (cursos 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 21 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+específicos de la actividad a desarrollar como diplomados, seminarios, talleres entre 
+otros) o experiencia para garantizar la óptima prestación del servicio.  
+7.5.1.2. Socializar con el equipo de trabajo que realiza las actividades definidas en el contrato, 
+la información básica del ICBF (Misión, Visión, Principios, Objetivos Estratégicos y 
+Políticas del Sistema Integrado de Gestión SIGE) así como dar a conocer los 
+diferentes documentos (lineamientos técnicos, manuales, procedimientos, guías, 
+formatos entre otros) necesarios para la operación de los servicios.  
+7.5.1.3. Contar con información documentada para la recepción, tratamiento y respuesta a 
+las peticiones, quejas, reclamos, felicitaciones y sugerencias, en el marco de la 
+ejecución del objeto contractual. 
+ 
+7.5.2. 
+Para el eje de Seguridad de la Información 
+ 
+7.5.2.1. Certificar el cumplimiento, seguimiento y revisión de los asuntos correspondientes a 
+seguridad de la información enmarcado en la normativa interna del ICBF vigente en 
+virtud de la ejecución del objeto del contrato.  
+7.5.2.2. Suscribir un documento de compromiso de confidencialidad el cual deberá ser 
+entregado al supervisor del contrato una vez se firme el contrato.  
+7.5.2.3. Informar al supervisor, en el momento que ocurran incidentes de seguridad que 
+afecten la disponibilidad, integridad y/o confidencialidad de la información del ICBF, 
+en el marco de la ejecución del contrato.  
+ 
+7.5.3. 
+Para el eje de Seguridad y Salud en el Trabajo 
+ 
+7.5.3.1. Certificar que cuenta con un representante de seguridad y salud en el trabajo, que 
+cumpla con el perfil establecido en la Resolución 312 de 2019, o a la norma que 
+adicione, modifique o sustituya y garantice el cumplimiento de obligaciones 
+contractuales establecidas en el marco de la ejecución del contrato o convenio y la 
+normatividad vigente. 
+7.5.3.2. Presentar la identificación de peligros, valoración de riesgos y determinación de 
+controles, documentados, en el marco de la Seguridad y Salud en el Trabajo durante 
+la ejecución del contrato o convenio. 
+7.5.3.3. Realizar la inducción al equipo de trabajo que se empleará durante la ejecución del 
+contrato o convenio en materia de Seguridad y Salud en el Trabajo. 
+7.5.3.4. Suministrar a los colaboradores vinculados para la ejecución del contrato o convenio 
+los elementos de protección personal requerido para la realización de sus 
+actividades. 
+7.5.3.5. Presentar el concepto médico ocupacional favorable de los colaboradores vinculados 
+para la ejecución del contrato o convenio. 
+7.5.3.6. Informar al ICBF los Accidentes de Trabajo y enfermedad Laboral – ATEL del 
+personal a cargo del operador/contratista, reportados a la ARL y EPS, durante el 
+plazo de ejecución del contrato o convenio.  
+7.5.3.7. Designar un brigadista para que haga parte activa del Plan de Emergencias y 
+Contingencias del ICBF, así como garantizar la socialización de este Plan a los 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 22 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+colaboradores vinculados por el contratista que prestan sus servicios en las sedes 
+del ICBF.  
+7.5.3.8. Formular e implementar el plan de prevención, preparación y respuesta ante 
+emergencias.  
+ 
+7.5.4. 
+Para el eje de Gestión Ambiental 
+ 
+7.5.4.1. Adoptar las medidas necesarias para el ahorro y uso eficiente de agua, energía, 
+papel, y manejo de residuos que se generen durante la ejecución del contrato, de 
+acuerdo con la política ambiental de la Entidad.   
+ 
+8. LUGAR DE EJECUCIÓN DEL CONTRATO  
+ 
+El lugar de ejecución del contrato será en la ciudad de Bogotá D.C. 
+ 
+Nota: las actividades desarrolladas en el marco del objeto de este contrato podrán realizarse 
+de manera remota en caso de que continúe el estado de emergencia decretado por el gobierno 
+nacional en virtud de la pandemia generada por el COVID –19. En caso de requerirse alguna 
+actividad presencial, deberán seguirse las condiciones de bioseguridad establecidas 
+ 
+9. PLAZO DE EJECUCIÓN 
+ 
+El plazo de ejecución del contrato será a partir del cumplimiento de los requisitos de 
+perfeccionamiento y ejecución hasta el 31 de diciembre de 2020 o hasta agotar los recursos 
+del servicio contratado, lo que primero ocurra. 
+ 
+10. FORMA DE PAGO DEL VALOR DEL CONTRATO 
+ 
+El valor del contrato a suscribir será hasta por el valor del presupuesto oficial incluidos todos 
+los costos directos e indirectos asociados al suministro de los bienes y/o prestación del 
+servicio, el IVA, demás impuestos de ley, y se ejecutará de la siguiente manera: 
+ 
+Un primer pago correspondiente a los dos (2) productos especificados en el numeral 6.2.2.1. 
+Análisis de Fuentes ICBF y entregables de la FCT: 
+- 
+Documento de Análisis de Situación Actual de las fuentes de datos identificadas en el 
+ICBF tanto externas como internas. 
+ 
+- 
+Documento de las fuentes analizadas y Recomendación de Metodología para la 
+implementación de la gestión de la información transaccional a nivel de Big Data y 
+Analítica de datos. 
+ 
+Este pago se realizará previa aprobación del supervisor de los productos aquí especificados 
+y sobre este pago se realizarán los descuentos correspondientes por ANS aplicables. 
+ 
+ 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 23 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+Posterior al Análisis de Fuentes ICBF se realizarán pagos mensuales establecidos así:  
+Se pagará el valor de los indicadores implementados en ambiente de producción durante el 
+periodo a facturar, previa aprobación y recibido a satisfacción por parte del supervisor. Estos 
+pagos tendrán como soporte los entregables definidos en el numeral 6.2.2.1 Implementación 
+de la gestión de la información transaccional a nivel de Big Data y Analítica de datos por cada 
+uno de los indicadores.  
+ 
+Sobre este pago mensual se realizarán los descuentos correspondientes por ANS aplicables 
+en el periodo facturado.  
+ 
+Nota. El último pago se realizará una vez el ICBF reciba a satisfacción el cumplimiento de 
+todas las obligaciones contractuales y entrega de los productos definidos en la Ficha de 
+Condiciones Técnicas. 
+ 
+Los pagos se realizarán previa presentación de la factura correspondiente, la certificación de 
+recibo a satisfacción por parte del supervisor y la certificación del revisor fiscal o representante 
+legal, según corresponda, sobre el cumplimiento en el pago de los aportes parafiscales y de 
+seguridad social de sus empleados de acuerdo con lo establecido en el artículo 50 de la Ley 
+789 de 2002 y artículo 23 de la Ley 1150 de 2007.  
+ 
+El pago se realizará dentro de los treinta (30) días hábiles siguientes a la radicación de la 
+factura y la certificación de cumplimiento, previa aprobación del PAC (Programa Anual 
+Mensualizado de Caja). 
+ 
+Si la(s) factura(s) no ha(n) sido correctamente elaborada(s), o no se acompañan los 
+documentos requeridos para el pago, el término para este solo empezará a contarse desde 
+la fecha en que se presenten debidamente corregidas, o desde que se haya aportado el último 
+de los documentos solicitados. Las demoras que se presenten por estos conceptos serán de 
+responsabilidad del contratista y no tendrá por ello, derecho al pago de intereses o 
+compensación de ninguna naturaleza. 
+ 
+Todos los pagos se realizarán conforme al PAC del Instituto Colombiano de Bienestar 
+Familiar. 
+ 
+11. TIPIFICACIÓN, VALORACIÓN Y ASIGNACIÓN DE LOS RIESGOS PREVISIBLES 
+ 
+Con el fin de conocer los riesgos que afectarían el contrato que se pretende adelantar, tanto 
+en aspectos favorables como adversos; y con el fin de contribuir a asegurar los fines que el 
+Estado persigue con la contratación, el Instituto Colombiano de Bienestar Familiar – ICBF ha 
+preparado el Anexo No. 6. Matriz Identificación Valoración y Asignación de Riesgos, el 
+cual permite dilucidar aspectos que deben ser considerados en la adecuada estructuración 
+de ofertas y planes de contingencia y continuidad del contrato. 
+ 
+De este modo, corresponderá al contratista seleccionado la asunción del riesgo previsible 
+propio de este tipo de contratación, asumiendo su costo, siempre que el mismo no se 
+encuentre expresamente a cargo del Instituto Colombiano de Bienestar Familiar – ICBF. 
+
+-----
+      
+ 
+PROCESO ADQUISICIÓN DE BIENES Y SERVICIOS 
+ 
+FORMATO - Ficha de condiciones técnicas esenciales para 
+la prestación del servicio y/o entrega del bien (FCT) 
+F1.P3.ABS 
+02/05/18 
+Versión 3 
+Página 24 
+de 24                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                              
+Antes de imprimir este documento… piense en el medio ambiente!   
+Cualquier copia impresa de este documento se considera como COPIA NO CONTROLADA 
+  
+ 
+ 
+Los riesgos que podrían afectar el normal desarrollo de las actividades previstas en esta 
+contratación se analizan en el Anexo No. 6. Matriz Identificación Valoración y Asignación 
+de Riesgos, elaborado de acuerdo con la metodología propuesta por Colombia Compra 
+Eficiente (CCE) detallada en el “Manual para la Identificación y Cobertura del Riesgo en los 
+Procesos de Contratación".15 
+ 
+12. ANEXOS 
+ 
+Anexo No. 1. Personal mínimo requerido para la prestación del servicio y/o entrega del bien.  
+Anexo No. 2. Matriz Definición de Complejidad 
+Anexo No. 3. Matriz de Indicadores 
+Anexo No. 4. Acuerdos de Nivel de Servicio  
+Anexo No. 5. Politica_de_tratamiento_de_datos_personales 
+Anexo No. 6. Matriz Identificación Valoración y Asignación de Riesgos. 
+ 
+13. ACEPTACIÓN CUMPLIMIENTO DE REQUERIMIENTOS TÉCNICOS 
+ 
+Señor proveedor o contratista potencial: al remitir cotización y/o propuesta, usted está 
+aceptando que la misma cumple con la totalidad de los requerimientos incluidos en el presente 
+documento y que incluye la totalidad de costos y gastos, directos e indirectos, así como los 
+impuestos, asociados a la ejecución del contrato. Así mismo, en caso de resultar adjudicatario 
+del proceso de selección correspondiente, podrá prestar el servicio y/o entregar el bien, con 
+las condiciones técnicas descritas en el presente documento. 
+ 
+14. APROBACIONES - ICBF  
+ 
+Concepto 
+Nombre y apellidos 
+Cargo – Dependencia 
+Firma 
+Elaboró 
+Ricardo Velásquez 
+Contratista de la Subdirección de 
+Sistemas 
+Integrados 
+de 
+Información 
+ 
+Elaboró 
+Yoleida Galvis 
+Bernal 
+Contratista de la Subdirección de 
+Sistemas 
+Integrados 
+de 
+Información 
+ 
+Revisó 
+María Nathaly 
+Toledo 
+Contratista de la Dirección de 
+Información y Tecnología 
+ 
+Aprobó 
+Rosa Angelina Pérez 
+Sierra 
+Subdirectora 
+de 
+Sistemas 
+Integrados de Información 
+ 
+ 
+ 
+ 
+ 
+15 Agencia Nacional para la Contratación Pública – Colombia Compra Eficiente, disponible en www.colombiacompra.gov.co, 
+https://www.colombiacompra.gov.co/sites/cce_public/files/cce_documents/cce_manual_cobertura_riesgo.pdf, fecha de consulta 
+26 de abril de 2018. 
+
+-----

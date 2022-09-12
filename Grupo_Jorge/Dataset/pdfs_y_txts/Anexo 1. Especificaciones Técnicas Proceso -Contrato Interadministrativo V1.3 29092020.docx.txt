@@ -1,0 +1,479 @@
+Información Pública
+
+Información Pública
+
+
+
+         
+
+ANEXO TÉCNICO
+
+
+
+CARACTERIZACIÓN DE LA POBLACIÓN VÍCTIMA
+
+ 
+
+La Unidad para la Atención y Reparación Integral a las Víctimas (en adelante Unidad), a través de la Oficina de Tecnologías de la Información, diseñó y propuso la aplicación de tecnologías, estrategias y herramientas para el mejoramiento continuo, como un medio que permita la identificación, focalización y priorización para la atención y reparación integral de la población víctima. Lo anterior enmarcado en el principio de concurrencia y atendiendo el artículo 172 de la Ley 1448 de 2011.  Y, además, diseñó y desarrolló la estrategia modelo integrado que busca la estandarización de la información a través de procesos de análisis, conversión y tratamiento de datos facilitando el acceso a la información.
+
+
+
+Objeto del proyecto
+
+
+
+Contratar los servicios especializados en proyectos de Ciencia, Tecnología, Capacitación e Innovación para la implementación de nuevas tecnologías en análisis y ciencia de datos para el diseño, desarrollo, construcción, e implementación de consultas y la construcción de tableros de control tomando como base las fuentes de información de los sistemas de información de la Unidad y su información estructurada existente en ellos. 
+
+
+
+
+
+TIEMPO DE EJECUCIÓN PROYECTO 
+
+
+
+El tiempo de ejecución del presente contrato, será desde el momento de perfeccionamiento del contrato y como máximo hasta el 20 de diciembre de 2020.
+
+
+
+
+
+GLOSARIO 
+
+Datos. Según la ISO/IEC 2382, es la representación re-interpretable de la información en una apropiada forma formalizada para comunicación, interpretación o procesamiento. Los datos no tienen un valor intrínseco, la información almacenada en los datos, sí tiene valor.
+
+Que son atributos o características de la información. Los parámetros de buena calidad de la información pueden presentar dificultad para ser determinados y valorados. La calidad de la información se refiere a su capacidad para ser usada o su confiabilidad. 
+
+Datos Portables: Según la ISO 8000©, los datos portables son una característica de la calidad de los datos, una función de la semántica y sintaxis y concretamente es que al ser movidos de una aplicación a otra mantienen su significado y no hay perdida en su valor, por los cuales, son fundamentales para una verdadera independencia de aplicaciones, interoperabilidad e integración de sistemas.
+
+Datos de referencia permiten validar la exactitud de los datos y enriquecer los registros de los datos con nuevos datos. 
+
+Información. Tiene valor de referencia como propiedad agregada de los datos y sentido como producto de un proceso. Se caracteriza por nivel de incertidumbre, rango de validez, valor de referencia, alcance/ámbito, dominio de pertenencia, hipótesis implícitas y connotación. 
+
+Conocimiento. Es la abstracción conceptual que regula el proceso instaurado para transformar los datos en información, por lo que se caracteriza por su generalización, perspectiva, eficacia y propósito. 
+
+Diccionario Técnico Abierto (Open technical dictionary OTD): Es la lista de códigos de datos con su significado y descripción, donde se destacan dos componentes claves que debe tener cada uno:
+
+Metadatos
+
+Datos de referencia
+
+
+
+Análisis Descriptivo. Comprensión del contexto de los datos históricos para comprender y entender la realidad actual de donde se encuentra el negocio hoy en día. Desde el punto de vista de la Unidad, ayudaría al identificar qué servicios se están prestando mejor de cara a la víctima en un periodo de tiempo definido comparable con un mismo(s) periodo(s) histórico(s) inmediatos.
+
+
+
+Análisis Predictivo. Ayuda a anticipar cambios basados en la comprensión de los patrones y las anomalías dentro de los datos provenientes de una cantidad de fuentes de datos relacionadas que permite ser analizada para predecir resultados. Para este análisis, se aprovecha la tecnología de “machine learning” para la obtención de información continua.
+
+
+
+Análisis Prescriptivo. Intenta cuantificar el efecto de las decisiones futuras para asesorar sobre los posibles resultados antes que realmente se tomen dichas decisiones. En una buena perspectiva, este análisis no solo ayuda a predecir lo que sucederá sino adicional, el por qué ocurrirá al proporcionar recomendaciones sobre acciones que aprovecharán las predicciones.
+
+
+
+Big Data. En términos sencillos y generales, es un conjunto de datos con gran variedad de formatos, que pueden ser estructurados o no estructurados, que se almacenan y acumulan en grandes volúmenes a una velocidad que aumenta con el tiempo. Para comprender esto, se debe partir de las siguientes dimensiones que compone la Big Data (Las 5V’s):
+
+Volumen de los Datos
+
+La Velocidad con la cual pueden ser procesados
+
+La Variedad de los tipos de Datos
+
+La Veracidad de los datos
+
+Cómo extraer Valor de los datos
+
+
+
+
+
+
+ASPECTOS TÉCNICOS PARA LA EJECUCIÓN DEL CONTRATO
+
+
+
+Confidencialidad de la Información
+
+
+
+EL CONTRATISTA debe formalizar con cada uno de sus colaboradores, al inicio de su vinculación al contrato o convenio, una cláusula de <<CONFIDENCIALIDAD DE LA INFORMACIÓN>> y remitirla a la supervisión del contrato de la Unidad y cuando le sea requerida.
+
+
+
+La información que el contratista genere u obtenga en el marco del cumplimiento de las obligaciones contractuales es de propiedad de la Unidad para la Atención y Reparación Integral a las Víctimas; en consecuencia, le está prohibida cualquier uso, reproducción o publicación total o parcial de dicha información, fuentes de código, estructuras de las consultas, fuentes de los tableros sin la autorización del supervisor del contrato de la Unidad.
+
+
+
+
+
+ Planes de trabajo
+
+
+
+EL CONTRATISTA deberá presentar con su propuesta los planes necesarios para la ejecución del contrato, los cuales son:
+
+a) Plan de trabajo: Que incluya todos los servicios descritos en el presente documento, metodologías de trabajo, productos y resultados de cada diseño, desarrollo, implementación y construcción y en general toda actividad y tarea; los recursos necesarios, el cronograma general de las actividades y tareas generales del proyecto, entre otras.
+
+b) Plan de aseguramiento de la calidad: Que incluya los documentos, su control y registro, e indicadores para cada actividad y tareas descritas en este documento para lo cual debe tener en cuenta los factores de calidad, la comunicación del proyecto, los requisitos del producto y el tratamiento del producto no conforme, entre otros. c)Plan de Comunicaciones: El Contratista debe entregar el plan de comunicaciones con la Unidad. Esto incluye la matriz de comunicaciones de los interesados.
+
+d)Plan de contingencia: Que incluya todas las actividades que garanticen la prestación de los servicios, actividades y tareas en caso de la ocurrencia de eventualidades, incluyendo la ausencia de recursos tecnológicos.
+
+e) Plan de gestión de Riesgo: El Contratista debe generar y entregar el plan de Gestión de Riesgos visible y oculto, la cuantificación, cualificación y el plan de mitigación.
+
+f) Plan de Seguimiento: El Contratista debe generar y entregar el plan para el seguimiento y control del proyecto el cual desarrollará el supervisor del contrato o quien este delegue.
+
+g) Plan de Capacitaciones y Cierre: El Contratista debe contemplar las actividades de capacitaciones en gobierno de datos, capacitación en transferencia de conocimiento y mantenibilidad de los entregables objeto de este contrato, así como la entrega y cierre del contrato incluyendo las fuentes de cada uno de los artefactos entregados y por entregar y un informe final con el consolidado de la ejecución del contrato, donde certifique la eliminación de posibles copias de la información usada durante la ejecución del contrato.
+
+
+
+Nota1: Los planes deber ser elaborados con metodologías basadas en Normas Técnicas Nacionales e Internacionales generalmente aceptadas y enmarcadas en la gestión y metodología de uso generalmente aceptado en el marco de la Gerencia de Proyectos de PMI.
+
+
+
+Nota 2. Los planes mencionados previamente deben ser aprobados por parte del supervisor del contrato de la Unidad para la Atención y Reparación Integral a las Víctimas. Posterior a la aprobación de los planes generales de Trabajo, el Contratista debe indicar en las reuniones de seguimiento el estado del cronograma general y las desviaciones presentadas las cuales deben quedar registradas en las actas.
+
+
+
+Nota 3. La herramienta para la construcción de los tableros de control e información será Microsoft® PowerBI. Otro tipo de herramientas para dicho propósito no podrán ser usadas.
+
+
+
+
+
+ Gestión del proyecto
+
+
+
+Para el proceso de Gestión del Proyecto, en el marco del proceso de Gestión de proyectos de la OTI (Unidad), esta designará un Gerente de Proyectos para la Gestión del Proyecto enmarcado en el futuro contrato y a su vez el Contratista deberá suministrar su respectivo par.
+
+
+
+
+
+ Fases del proyecto (Ver numeral “3.6 Cronograma”)
+
+
+
+Fase Inicial:
+
+
+
+Definir el objetivo general y las metas del proyecto, así como el plan del proyecto
+
+Definir los artefactos a ser entregados (implementación de Ciencia, Tecnología e Innovación para el diseño, construcción, desarrollo e implementación de modelos de datos, consultas y tableros de control) por cada una de las fuentes de información provistas para el desarrollo de los tableros de control.
+
+Identificar los interesados y definir la matriz RACI
+
+Documentar cada uno de los entregables y glosario de términos.
+
+Establecer los mecanismos de gestión de proyectos, el seguimiento y la generación de reportes para la entrega de valor.
+
+Establecer los lineamientos de la seguridad informática enfocada en el cuidado y protección de la información de las víctimas en articulación con el equipo de seguridad de la información de la Unidad.
+
+
+
+Fase de Análisis, Diseño:
+
+
+
+Especificar las actividades que se realizaran en mesas de trabajo y evaluación de las fuentes de información que se usaran para la construcción de los modelos, consultas y los tableros de control.
+
+Aplicación de uso de al menos una de las herramientas de la 4ta revolución industrial (analítica de datos, ciencia de datos, inteligencia artificial, etc) sobre los artefactos entregables que apliquen. 
+
+Identificar los posibles riesgos y calidad de datos, con lo que permita asegurar la entrega exitosa de los productos motivo de este contrato.
+
+Diseñar las pruebas integrales que permitan validar el resultado de cada una de los entregables del proyecto mediante comparativos de cifras.
+
+Identificar y documentar los requerimientos de la organización, los datos simples y complejos, datos maestros y metadatos usados.
+
+Identificar y diseñar los modelos, consultas y tableros de control a ser desarrollados y construidos como entregables principales del proyecto.
+
+Diseñar las pruebas de QA que se aplicaran a los productos entregables que apliquen como son las consultas y tableros de control.
+
+Documentar los lineamientos y estándares de presentación (front end) que serán aplicados a los productos en concordancia y coordinación con Comunicaciones de la Unidad, Gov.co y los estándares de los Sistemas de Información de la Unidad.
+
+Definir y documentar el plan de transferencia del conocimiento de los modelos, consultas y tableros de control al personal que designe la OTI.
+
+
+
+Fase de Ejecución:
+
+Documentar todas las actividades y procesos para el desarrollo y construcción de los modelos, consultas y tableros de control.
+
+Desarrollar, implementar y construir como entregables principales del proyecto los modelos, consultas y tableros de control seleccionados de los propuestos en la fase de Análisis y Diseño.
+
+Realizar y documentar las pruebas realizadas a las consultas y tableros de control.
+
+Realizar los ajustes y mejoras sugeridas para garantizar un grado óptimo de los resultados obtenidos de las consultas y los tableros de control.
+
+Realizar el seguimiento de la entrega de valor de cada uno de los productos mediante un informe para tal fin.
+
+Solicitar y coordinar el despliegue de los tableros de control en el contenedor dispuesto por la OTI y en coordinación con el equipo de Infraestructura.
+
+Informes de gestión y avances del proyecto.
+
+
+
+Fase de Seguimiento y Control:
+
+El supervisor y a quien designe realizará el seguimiento y control del proyecto al Contratista.
+
+Verificación periódica de la infraestructura y los niveles de seguridad de la información del Contratista.
+
+Realizar procesos de seguimiento, monitoreo y control de la calidad de los productos diseñados y construidos con base a la documentación de la fase de análisis y diseño.
+
+
+
+Fase de Capacitaciones y Educación:
+
+Esta fase se tiene provista ser transversal al tiempo de duración del contrato, por lo que puede ser programada mediante acta en consenso entre el contratista y la Unidad. 
+
+El contratista se compromete a ofrecer el siguiente conjunto de capacitaciones al personal que designe la OTI en pro de generar nuevos conocimientos y/o fortalecerlos, en cuyo propósito a presente o futuro, lo puedan usar para plantear ideas y alternativas de mejora continua en los servicios y/o productos objeto de este contrato, sino adicional propender a plantear nuevas soluciones.
+
+Capacitación en Gobierno de Datos:
+
+Temática
+
+No. de Personas
+
+Duración mínima (Horas)
+
+Dedicación semanal
+
+(Horas)
+
+Lugar
+
+Certificable
+
+GOBIERNO DE DATOS
+
+10
+
+24
+
+*
+
+Virtual, Presencial o mixta
+
+Sí
+
+* La intensidad horaria semanal debe ser propuesta por el contratista en común acuerdo con la Unidad
+
+
+
+Capacitación y transferencia de conocimiento en los modelos de datos, consultas y tableros de control diseñados para ser construidos.
+
+Temática
+
+No. de Personas
+
+Duración mínima (Horas)
+
+Dedicación semanal
+
+(Horas)
+
+Lugar
+
+Certificable
+
+Capacitación y transferencia de conocimiento en los modelos de datos, consultas y tableros de control diseñados
+
+4
+
+12
+
+*
+
+Presencial
+
+Opcional
+
+* La intensidad horaria semanal debe ser propuesta por el contratista en común acuerdo con la Unidad
+
+
+
+Capacitación y transferencia de conocimiento del uso de la(s) herramienta(s) de ciencia de datos usadas para la construcción, desarrollo e implementación de modelos, consulta y tableros de control
+
+Temática
+
+No. de Personas
+
+Duración mínima (Horas)
+
+Dedicación semanal
+
+(Horas)
+
+Lugar
+
+Certificable
+
+Capacitación y transferencia de conocimiento del uso de la(s) herramienta(s) de ciencia de datos usadas para la construcción, desarrollo e implementación de modelos, consulta y tableros de control
+
+2
+
+12
+
+*
+
+Presencial
+
+Opcional
+
+* La intensidad horaria semanal debe ser propuesta por el contratista en común acuerdo con la Unidad
+
+
+
+Fase de Cierre:
+
+Una vez avalados los resultados finales de las pruebas, se debe gestionar la entrega de toda la documentación de los modelos, consultas y tableros de control pendientes de ser entregados y publicados.
+
+Acerca de las herramientas usadas en relación con la 4ta revolución industrial usadas durante la ejecución del presente contrato, el Contratista deberá documentar, generar manuales, capacitar y entregar las fuentes de código, procesos, ETLs, Datamarts,  y toda actividad en relación a esta tecnología que le haya permitido diseñar, desarrollar, construir e implementar la generación de información a partir de los datos de la UNIDAD para el diseño, construcción e implementación de las consultas y tableros de control propuestos y/o entregados a la UNIDAD.
+
+Entrega de todas las fuentes de código de las consultas, modelos de datos, las fuentes de los tableros de control, y los modelos y gestión de datos mediante acta.
+
+Ejecutar el proceso de capacitaciones y transferencia de conocimiento, y realizar el cierre de esta actividad mediante acta.
+
+Documentar las lecciones aprendidas y realizar su entrega en el conjunto de documentos de cierre del proyecto.
+
+Construir el acta de entrega de todos los artefactos y su descripción uno a uno.
+
+Asegurar el soporte técnico y su tiempo una vez se finalice el cierre del proyecto y el contrato.
+
+Gestionar el acta de cierre del proyecto
+
+
+
+ Gestión Humana
+
+
+
+El Contratista debe suministrar el recurso humano y hacer su distribución de acuerdo con las necesidades del contrato, para lo cual deberá contemplar entre otros, el personal para cubrir los siguientes roles, quienes cumplirán con el desarrollo de las actividades cuyos costos deben estar incluidos en el valor del contrato:
+
+
+
+
+
+* La cantidad de Especialistas, ingenieros y documentadores debe ser propuesta por el Contratista en relación a los productos a entregar.
+
+
+
+ Aspectos Técnicos
+
+
+
+Una vez se haya protocolizado el inicio del contrato, EL CONTRATISTA deberá disponer inmediatamente del personal técnico y profesional que les permita realizar mesas de trabajo con los equipos de las fuentes de datos de los Sistemas de Información a tratar en la ejecución del proyecto, para evaluar dichas fuentes y cómo resultado en consenso, el Contratista deberá proponer los modelos a diseñar y construir, los diseños, desarrollo e implementación de las consultas, los ajustes y mejoras a las bases de datos para evitar impactos negativos en el desempeño de la misma durante el proceso de ejecución de las consultas, y diseñar y proponer los contenidos de los tableros de control, ajustándolos a las necesidades y propuestas de la UNIDAD.
+
+
+
+Las bases de datos como fuentes de información de la UNIDAD se encuentran en motores ORACLE y MS-SQL Server.
+
+
+
+Los tableros de control deberán ser construidos con la herramienta MS Power BI.
+
+
+
+La cantidad de modelos, consultas y tableros de control no ha sido establecida ya que surge de la necesidad y evaluación de las fuentes de información entre la UNIDAD y EL CONTRATISTA, sin embargo, durante el proceso de ejecución del presente contrato se espera obtener la mayor cantidad de estos productos con beneficio para la UNIDAD y su equipo directivo.
+
+
+
+La recepción de los modelos, consultas y tableros de control deberá ser validada con los documentos base donde se hayan plasmados en el análisis y diseño de estos para poder contrastar con los artefactos a ser probados, ajustados y entregados por parte del Contratista.
+
+
+
+
+
+*********************** espacio en blanco *************************************
+
+
+
+
+ Cronograma
+
+
+
+
+
+ 
+
+
+
+ Entregables
+
+
+
+Documentación relacionada con la gestión del proyecto siguiendo los lineamientos de PMI en la gestión de proyectos.
+
+Planes del proyecto
+
+Documentos de análisis y diseños.
+
+Documentación técnica y de detalle de los modelos propuestos y usados.
+
+Modelos propuestos y lista de los usados para la construcción de las consultas y tableros de control
+
+Documentación técnica de los procesos y/o uso de las herramientas de la 4ta revolución industrial usadas para el cumplimiento del objeto de este contrato o convenio.
+
+Fuentes de código y su documentación en relación a las implementaciones usando las herramientas mencionadas en el punto anterior para la construcción de las consultas y tableros de control.
+
+Documentos, fuentes, y todo artefacto creado, diseñado, desarrollado, implementado, construido, propuesto, e implementado para las propuestas de modelos, consultas y tableros de control, independiente si estos fueron desarrollados e implementados.
+
+Capacitaciones necesarias para la transferencia de conocimiento y gestión de mantenimiento de las consultas y tableros de control.
+
+Modelos de datos, Consultas, datamarts y/o de más artefactos usados para la construcción de los tableros de control en MS PowerBI
+
+Tableros de control construidos en MS  PowerBI.
+
+Manual y documentación para la transferencia de conocimiento.
+
+Toda fuente diseñada, construida e implementada para la generación de las consultas y tableros de control con el paso a paso en cada caso.
+
+Actas de reuniones y seguimiento firmadas y aprobadas.
+
+Lecciones aprendidas
+
+Documentación de cierre del proyecto aprobada.
+
+
+
+
+
+FORMATO DE PRESENTACIÓN DE COTIZACIÓN 
+
+
+
+Para efectos de realizar el presente estudio de mercado, se solicita presentar la propuesta económica en el siguiente formato, teniendo en cuenta lo relacionado en el Requerimiento técnico para la implementación objeto de este contrato:
+
+
+
+******************* ESPACIO EN BLANCO **************************
+
+
+
+
+
+
+
+
+
+Cordialmente,
+
+
+
+
+
+
+
+VÍCTOR EDGARDO DURÁN MARTÍNEZ
+
+Jefe Oficina de Tecnologías de la Información
+
+
+
+Elaboró: Juan Pablo Díaz Salamanca
+
+Revisó: Walter García Roldán
